@@ -5,7 +5,7 @@ A male Arabic hidden semi-Markov model voice.
 The voice is built from recordings at http://en.arabicspeechcorpus.com/.
 The recordings were made by Nawar Halabi, supported by MicroLinkPC (https://www.microlinkpc.com).
 
-The recordings are released under the "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License", but MicroLinkPC and Nawar Halabi have generously aggreed to allow the hsmm voice for marytts to be released under the "Creative Commons Attribution-ShareAlike 4.0 International Public License".
+The recordings are released under the "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License", but MicroLinkPC and Nawar Halabi have generously agreed to allow the hsmm voice for marytts to be released under the "Creative Commons Attribution-ShareAlike 4.0 International Public License".
 
 
 ## Prerequisites
@@ -38,7 +38,7 @@ The "build" task will fail with missing dependency for marytts-lang-ar, so make 
 The jar file will be placed under `build/libs`.
 Copy the jar file into your MaryTTS installation's `lib` directory (`<MARYBASE>/build/install/marytts/lib/`).
 
-Make sure your MaryTTS installation was cloned from HaraldBerthelsen/marytts and built with Arabic language support (add `include 'marytts-languages:marytts-lang-ar'` to marytts/settings.gradle before running `./gradlew build`).
+Make sure your MaryTTS installation was cloned from https://github.com/HaraldBerthelsen/marytts and built with Arabic language support (add `include 'marytts-languages:marytts-lang-ar'` to marytts/settings.gradle before running `./gradlew build`).
 
 The Arabic language support for MaryTTS needs an external vocalisation component. Clone https://github.com/linuxscout/mishkal.git and run `python interfaces/web/mishkal-webserver.py` in the background.
 
