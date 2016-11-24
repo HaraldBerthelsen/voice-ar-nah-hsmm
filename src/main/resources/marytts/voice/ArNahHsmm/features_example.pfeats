@@ -1,0 +1,441 @@
+ByteValuedFeatureProcessors
+phone 0 $ $$ * ** < << A AA D DD E EE G H HH I0 I1 II0 S SS T TT U U0 U1 UU0 UU1 Z ZZ ^ ^^ _ a aa b bb d dd dist f ff g gg h hh i i0 i1 ii0 ii1 j jj k kk l ll m mm n nn p pp q qq r rr s ss t tt u u0 u1 uu0 uu1 v w ww x xx y yy z zz
+accented 0 1
+accented_syls_from_phrase_end 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+accented_syls_from_phrase_start 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+breakindex 0 1 2 3 4 5 6
+edge 0 start end
+next_accent 0 * H* !H* ^H* L* L+H* L*+H L+!H* L*+!H L+^H* L*+^H H+L* H+!H* H+^H* !H+!H* ^H+!H* ^H+^H* H*+L !H*+L
+next_cplace 0 a b g l p v
+next_ctype 0 a f l n r s
+next_cvox 0 + -
+next_is_pause 0 1
+next_next_cplace 0 a b g l p v
+next_next_ctype 0 a f l n r s
+next_next_cvox 0 + -
+next_next_phone 0 $ $$ * ** < << A AA D DD E EE G H HH I0 I1 II0 S SS T TT U U0 U1 UU0 UU1 Z ZZ ^ ^^ _ a aa b bb d dd dist f ff g gg h hh i i0 i1 ii0 ii1 j jj k kk l ll m mm n nn p pp q qq r rr s ss t tt u u0 u1 uu0 uu1 v w ww x xx y yy z zz
+next_next_vc 0 + -
+next_next_vfront 0 1 2 3
+next_next_vheight 0 1 3
+next_next_vlng 0 l s
+next_next_vrnd 0 + -
+next_phone 0 $ $$ * ** < << A AA D DD E EE G H HH I0 I1 II0 S SS T TT U U0 U1 UU0 UU1 Z ZZ ^ ^^ _ a aa b bb d dd dist f ff g gg h hh i i0 i1 ii0 ii1 j jj k kk l ll m mm n nn p pp q qq r rr s ss t tt u u0 u1 uu0 uu1 v w ww x xx y yy z zz
+next_punctuation 0 . , ; : ( ) ? ! "
+next_stressed 0 1
+next_tobi_accent 0 * H* !H* ^H* L* L+H* L*+H L+!H* L*+!H L+^H* L*+^H H+L* H+!H* H+^H* !H+!H* ^H+!H* ^H+^H* H*+L !H*+L
+next_tobi_endtone 0 H- !H- L- H-% !H-% H-^H% !H-^H% L-H% L-% L-L% H-H% H-L%
+next_vc 0 + -
+next_vfront 0 1 2 3
+next_vheight 0 1 3
+next_vlng 0 l s
+next_vrnd 0 + -
+nextnext_tobi_accent 0 * H* !H* ^H* L* L+H* L*+H L+!H* L*+!H L+^H* L*+^H H+L* H+!H* H+^H* !H+!H* ^H+!H* ^H+^H* H*+L !H*+L
+nextnext_tobi_endtone 0 H- !H- L- H-% !H-% H-^H% !H-^H% L-H% L-% L-L% H-H% H-L%
+onsetcoda 0 onset coda
+ph_cplace 0 a b g l p v
+ph_ctype 0 a f l n r s
+ph_cvox 0 + -
+ph_vc 0 + -
+ph_vfront 0 1 2 3
+ph_vheight 0 1 3
+ph_vlng 0 l s
+ph_vrnd 0 + -
+phrase_endtone 0 H- !H- L- H-% !H-% H-^H% !H-^H% L-H% L-% L-L% H-H% H-L%
+phrase_numsyls 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+phrase_numwords 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+phrases_from_sentence_end 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+phrases_from_sentence_start 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+pos_in_syl 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+position_type 0 single final initial mid
+prev_accent 0 * H* !H* ^H* L* L+H* L*+H L+!H* L*+!H L+^H* L*+^H H+L* H+!H* H+^H* !H+!H* ^H+!H* ^H+^H* H*+L !H*+L
+prev_cplace 0 a b g l p v
+prev_ctype 0 a f l n r s
+prev_cvox 0 + -
+prev_is_pause 0 1
+prev_phone 0 $ $$ * ** < << A AA D DD E EE G H HH I0 I1 II0 S SS T TT U U0 U1 UU0 UU1 Z ZZ ^ ^^ _ a aa b bb d dd dist f ff g gg h hh i i0 i1 ii0 ii1 j jj k kk l ll m mm n nn p pp q qq r rr s ss t tt u u0 u1 uu0 uu1 v w ww x xx y yy z zz
+prev_phrase_endtone 0 H- !H- L- H-% !H-% H-^H% !H-^H% L-H% L-% L-L% H-H% H-L%
+prev_prev_cplace 0 a b g l p v
+prev_prev_ctype 0 a f l n r s
+prev_prev_cvox 0 + -
+prev_prev_phone 0 $ $$ * ** < << A AA D DD E EE G H HH I0 I1 II0 S SS T TT U U0 U1 UU0 UU1 Z ZZ ^ ^^ _ a aa b bb d dd dist f ff g gg h hh i i0 i1 ii0 ii1 j jj k kk l ll m mm n nn p pp q qq r rr s ss t tt u u0 u1 uu0 uu1 v w ww x xx y yy z zz
+prev_prev_vc 0 + -
+prev_prev_vfront 0 1 2 3
+prev_prev_vheight 0 1 3
+prev_prev_vlng 0 l s
+prev_prev_vrnd 0 + -
+prev_punctuation 0 . , ; : ( ) ? ! "
+prev_stressed 0 1
+prev_syl_break 0 1 unused 3 4
+prev_vc 0 + -
+prev_vfront 0 1 2 3
+prev_vheight 0 1 3
+prev_vlng 0 l s
+prev_vrnd 0 + -
+segs_from_syl_end 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+segs_from_syl_start 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+segs_from_word_end 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+segs_from_word_start 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+selection_prosody 0 stressed pre-nuclear nuclear finalHigh finalLow final
+sentence_numphrases 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+sentence_numwords 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+sentence_punc 0 . , ; : ( ) ? ! "
+stressed 0 1
+stressed_syls_from_phrase_end 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+stressed_syls_from_phrase_start 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+style 0 neutral poker happy sad angry excited
+syl_break 0 1 unused 3 4
+syl_numsegs 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+syls_from_phrase_end 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+syls_from_phrase_start 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+syls_from_prev_accent 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+syls_from_prev_stressed 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+syls_from_word_end 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+syls_from_word_start 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+syls_to_next_accent 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+syls_to_next_stressed 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+tobi_accent 0 * H* !H* ^H* L* L+H* L*+H L+!H* L*+!H L+^H* L*+^H H+L* H+!H* H+^H* !H+!H* ^H+!H* ^H+^H* H*+L !H*+L
+tobi_endtone 0 H- !H- L- H-% !H-% H-^H% !H-^H% L-H% L-% L-L% H-H% H-L%
+word_numsegs 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+word_numsyls 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+words_from_phrase_end 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+words_from_phrase_start 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+words_from_prev_punctuation 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+words_from_sentence_end 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+words_from_sentence_start 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+words_to_next_punctuation 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+ShortValuedFeatureProcessors
+ContinuousFeatureProcessors
+
+_ 0 11 0 0 0 L+H* l r + 0 0 0 0 a + 2 3 s - w 0 0 0 0 - 0 0 0 0 L+H* 0 0 0 0 0 0 0 0 0 0 H-L% 19 13 1 0 0 0 0 0 0 0 0 _ 0 0 0 0 _ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 19 0 0 11 0 0 0 0 19 0 0 0 0 0 2 2 0 0 0 0 12 0 0 19 0 0
+w 0 11 0 0 0 L+H* 0 0 0 0 a r + r - 0 0 0 0 a , 1 L+H* 0 + 2 3 s - 0 0 onset l r + - 0 0 0 0 H-L% 19 13 1 0 0 initial 0 0 0 0 1 _ 0 0 0 0 _ 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 7 0 0 2 19 0 0 11 0 0 0 2 19 0 0 0 3 0 1 1 0 0 8 4 11 0 0 19 0 12
+a 0 11 0 0 0 L+H* a r + 0 0 0 0 a + 2 3 s - r , 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 initial 0 l r + 0 w 0 0 0 0 _ 0 0 0 0 0 0 0 0 - 0 0 0 0 0 1 6 1 0 2 19 0 0 11 0 0 0 2 19 0 0 0 3 0 1 1 0 0 8 4 11 0 0 19 0 12
+r 1 10 0 0 0 L+H* 0 0 0 0 p s + jj - 0 0 0 0 a , 0 0 0 + 2 3 s - 0 0 onset a r + - 0 0 0 0 H-L% 19 13 1 0 0 mid 0 0 0 0 0 a 0 l r + w - 0 0 0 0 0 0 0 + 2 3 s - 1 0 5 2 pre-nuclear 2 19 0 1 10 0 0 0 2 19 1 1 1 2 1 4 4 L+H* 0 8 4 11 0 0 19 0 12
+a 1 10 0 0 0 L+H* p s + 0 0 0 0 A + 2 3 s - jj , 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 mid 0 a r + 0 r 0 0 0 0 a + 2 3 s - 0 0 0 - 0 0 0 0 0 1 4 3 pre-nuclear 2 19 0 1 10 0 0 0 2 19 1 1 1 2 1 4 4 L+H* 0 8 4 11 0 0 19 0 12
+jj 0 10 1 0 0 L+H* 0 0 0 0 g f - H - 0 0 0 0 A , 0 0 0 + 2 3 s - 0 0 onset p s + - 0 0 0 0 H-L% 19 13 1 0 0 mid L+H* 0 0 0 0 a 0 a r + r - 0 0 0 0 0 1 0 + 2 3 s - 1 0 3 4 0 2 19 0 0 10 1 0 0 2 19 2 1 1 1 2 3 3 0 0 8 4 11 0 0 19 0 12
+A 0 10 1 0 0 L+H* g f - 0 0 0 0 a + 2 3 s - H , 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 mid L+H* p s + 0 jj 0 0 0 0 a + 2 3 s - 0 1 0 - 0 0 0 0 0 1 2 5 0 2 19 0 0 10 1 0 0 2 19 2 1 1 1 2 3 3 0 0 8 4 11 0 0 19 0 12
+H 0 10 1 0 0 L+H* 0 0 0 0 a s - tt - 0 0 0 0 a , 0 0 0 + 2 3 s - L+H* 0 onset g f - - 0 0 0 0 H-L% 19 13 1 0 0 final L+H* 0 0 0 0 A 0 p s + jj - 0 0 0 0 0 0 0 + 2 3 s - 1 0 1 6 0 2 19 0 0 10 1 0 1 2 19 3 2 2 0 3 2 2 0 0 8 4 11 0 0 19 0 12
+a 0 10 1 1 0 L+H* a s - 0 0 0 0 A + 2 3 s - tt , 0 0 0 - 0 0 0 0 L+H* 0 coda 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 final L+H* g f - 0 H 0 0 0 0 A + 2 3 s - 0 0 0 - 0 0 0 0 0 1 0 7 0 2 19 0 0 10 1 0 1 2 19 3 2 2 0 3 2 2 0 0 8 4 11 0 0 19 0 12
+tt 0 10 1 0 0 L+H* 0 0 0 0 v s + q - 0 0 0 0 A , 1 L+H* 0 + 2 3 s - 0 0 onset a s - - 0 0 0 0 H-L% 19 13 1 0 0 initial L+H* 0 0 0 0 a 0 g f - H - 0 0 0 0 0 0 1 + 2 3 s - 2 0 6 0 0 2 19 0 0 10 1 0 0 3 19 4 3 3 2 0 1 1 0 0 7 3 10 1 1 19 1 11
+A 0 10 1 0 0 L+H* v s + 0 a r + r - 0 0 0 0 q , 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 initial L+H* a s - 0 tt 0 0 0 0 a + 2 3 s - 0 0 1 - 0 0 0 0 1 1 5 1 0 2 19 0 0 10 1 0 0 3 19 4 3 3 2 0 1 1 0 0 7 3 10 1 1 19 1 11
+q 0 10 1 0 0 L+H* a r + 0 0 0 0 ii0 + 1 1 l - r , 1 L+H* 0 - 0 0 0 0 0 0 coda v s + - 0 0 0 0 H-L% 19 13 1 0 2 initial L+H* 0 0 0 0 A 0 a s - tt - 0 0 0 0 0 0 1 + 2 3 s - 0 2 4 2 0 2 19 0 0 10 1 0 0 3 19 4 3 3 2 0 1 1 0 0 7 3 10 1 1 19 1 11
+r 1 9 1 0 0 L+H* 0 0 0 0 a r + r - 0 0 0 0 ii0 , 0 0 0 + 1 1 l - L+H* 0 onset a r + - 0 0 0 0 H-L% 19 13 1 0 0 mid L+H* v s + 0 q 0 0 0 0 A + 2 3 s - 0 0 0 - 0 0 0 0 1 0 3 3 pre-nuclear 2 19 0 1 9 1 0 0 2 19 5 4 4 1 1 2 2 L+H* 0 7 3 10 1 1 19 1 11
+ii0 1 9 1 0 0 L+H* a r + 0 0 0 0 u0 + 3 1 s + r , 0 0 0 - 0 0 0 0 L+H* 0 coda 0 0 0 + 1 1 l - H-L% 19 13 1 0 1 mid L+H* a r + 0 r 0 v s + q - 0 0 0 0 0 0 0 - 0 0 0 0 0 1 2 4 pre-nuclear 2 19 0 1 9 1 0 0 2 19 5 4 4 1 1 2 2 L+H* 0 7 3 10 1 1 19 1 11
+r 0 9 2 0 0 L+H* 0 0 0 0 a l + ll - 0 0 0 0 u0 , 1 L+H* 0 + 3 1 s + 0 0 onset a r + - 0 0 0 0 H-L% 19 13 1 0 0 final L+H* 0 0 0 0 ii0 0 a r + r - 0 0 0 0 0 1 0 + 1 1 l - 1 0 1 5 0 2 19 0 0 9 2 0 1 2 19 6 1 1 0 2 1 1 0 0 7 3 10 1 1 19 1 11
+u0 0 9 2 1 0 L+H* a l + 0 0 0 0 a + 2 3 s - ll , 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 3 1 s + H-L% 19 13 1 0 1 final L+H* a r + 0 r 0 0 0 0 ii0 + 1 1 l - 0 1 0 - 0 0 0 0 0 1 0 6 0 2 19 0 0 9 2 0 1 2 19 6 1 1 0 2 1 1 0 0 7 3 10 1 1 19 1 11
+ll 1 8 2 0 0 L+H* 0 0 0 0 a f + * - 0 0 0 0 a , 0 0 0 + 2 3 s - L+H* 0 onset a l + - 0 0 0 0 H-L% 19 13 1 0 0 single L+H* 0 0 0 0 u0 0 a r + r - 0 0 0 0 0 0 1 + 3 1 s + 3 0 3 0 pre-nuclear 2 19 0 1 8 2 0 1 4 19 7 2 2 0 0 2 2 L+H* 0 4 1 9 2 2 19 2 10
+a 1 8 2 0 0 L+H* a f + 0 0 0 0 i0 + 1 1 s - * , 0 0 0 - 0 0 0 0 L+H* 0 onset 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 single L+H* a l + 0 ll 0 0 0 0 u0 + 3 1 s + 0 0 1 - 0 0 0 0 2 1 2 1 pre-nuclear 2 19 0 1 8 2 0 1 4 19 7 2 2 0 0 2 2 L+H* 0 4 1 9 2 2 19 2 10
+* 1 8 2 0 0 L+H* 0 0 0 0 g s + < - 0 0 0 0 i0 , 0 0 0 + 1 1 s - L+H* 0 onset a f + - 0 0 0 0 H-L% 19 13 1 0 2 single L+H* 0 0 0 0 a 0 a l + ll - 0 0 0 0 0 0 1 + 2 3 s - 1 2 1 2 pre-nuclear 2 19 0 1 8 2 0 1 4 19 7 2 2 0 0 2 2 L+H* 0 4 1 9 2 2 19 2 10
+i0 1 8 2 1 0 L+H* g s + 0 0 0 0 a + 2 3 s - < , 0 0 0 - 0 0 0 0 L+H* 0 coda 0 0 0 + 1 1 s - H-L% 19 13 1 0 3 single L+H* a f + 0 * 0 0 0 0 a + 2 3 s - 0 0 1 - 0 0 0 0 0 3 0 3 pre-nuclear 2 19 0 1 8 2 0 1 4 19 7 2 2 0 0 2 2 L+H* 0 4 1 9 2 2 19 2 10
+< 0 8 3 0 0 L+H* 0 0 0 0 g a + E - 0 0 0 0 a , 1 L+H* 0 + 2 3 s - 0 0 onset g s + - 0 0 0 0 H-L% 19 13 1 0 0 initial L+H* 0 0 0 0 i0 0 a f + * - 0 0 0 0 0 1 1 + 1 1 s - 1 0 7 0 0 2 19 0 0 8 3 0 0 2 19 8 1 1 3 0 1 1 0 0 8 4 8 3 3 19 3 9
+a 0 8 3 0 0 L+H* g a + 0 0 0 0 a + 2 3 s - E , 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 initial L+H* g s + 0 < 0 0 0 0 i0 + 1 1 s - 0 1 1 - 0 0 0 0 0 1 6 1 0 2 19 0 0 8 3 0 0 2 19 8 1 1 3 0 1 1 0 0 8 4 8 3 3 19 3 9
+E 1 7 3 0 0 L+H* 0 0 0 0 a s + dd - 0 0 0 0 a , 0 0 0 + 2 3 s - 0 0 onset g a + - 0 0 0 0 H-L% 19 13 1 0 0 mid L+H* 0 0 0 0 a 0 g s + < - 0 0 0 0 0 0 0 + 2 3 s - 1 0 5 2 pre-nuclear 2 19 0 1 7 3 0 0 2 19 9 2 2 2 1 3 3 L+H* 0 8 4 8 3 3 19 3 9
+a 1 7 3 0 0 L+H* a s + 0 0 0 0 a + 2 3 s - dd , 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 mid L+H* g a + 0 E 0 0 0 0 a + 2 3 s - 0 0 0 - 0 0 0 0 0 1 4 3 pre-nuclear 2 19 0 1 7 3 0 0 2 19 9 2 2 2 1 3 3 L+H* 0 8 4 8 3 3 19 3 9
+dd 0 7 4 0 0 L+H* 0 0 0 0 g f - h - 0 0 0 0 a , 0 0 0 + 2 3 s - L+H* 0 onset a s + - 0 0 0 0 H-L% 19 13 1 0 0 mid L+H* 0 0 0 0 a 0 g a + E - 0 0 0 0 0 1 0 + 2 3 s - 1 0 3 4 0 2 19 0 0 7 4 0 0 2 19 10 1 1 1 2 2 2 0 0 8 4 8 3 3 19 3 9
+a 0 7 4 0 0 L+H* g f - 0 0 0 0 u0 + 3 1 s + h , 0 0 0 - 0 0 0 0 L+H* 0 coda 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 mid L+H* a s + 0 dd 0 0 0 0 a + 2 3 s - 0 1 0 - 0 0 0 0 0 1 2 5 0 2 19 0 0 7 4 0 0 2 19 10 1 1 1 2 2 2 0 0 8 4 8 3 3 19 3 9
+h 0 7 4 0 0 L+H* 0 0 0 0 l n + m - 0 0 0 0 u0 , 1 L+H* 0 + 3 1 s + 0 0 onset g f - - 0 0 0 0 H-L% 19 13 1 0 0 final L+H* 0 0 0 0 a 0 a s + dd - 0 0 0 0 0 0 0 + 2 3 s - 1 0 1 6 0 2 19 0 0 7 4 0 1 2 19 11 2 2 0 3 1 1 0 0 8 4 8 3 3 19 3 9
+u0 0 7 4 1 0 L+H* l n + 0 0 0 0 a + 2 3 s - m , 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 3 1 s + H-L% 19 13 1 0 1 final L+H* g f - 0 h 0 0 0 0 a + 2 3 s - 0 0 0 - 0 0 0 0 0 1 0 7 0 2 19 0 0 7 4 0 1 2 19 11 2 2 0 3 1 1 0 0 8 4 8 3 3 19 3 9
+m 1 6 4 0 0 L+H* 0 0 0 0 g a + E - 0 0 0 0 a , 0 0 0 + 2 3 s - 0 0 onset l n + - 0 0 0 0 H-L% 19 13 1 0 0 initial L+H* 0 0 0 0 u0 0 g f - h - 0 0 0 0 0 0 1 + 3 1 s + 2 0 6 0 pre-nuclear 2 19 0 1 6 4 0 0 3 19 12 3 3 2 0 4 4 L+H* 0 7 3 7 4 4 18 4 8
+a 1 6 4 0 0 L+H* g a + 0 g f - h - 0 0 0 0 E , 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 initial L+H* l n + 0 m 0 0 0 0 u0 + 3 1 s + 0 0 1 - 0 0 0 0 1 1 5 1 pre-nuclear 2 19 0 1 6 4 0 0 3 19 12 3 3 2 0 4 4 L+H* 0 7 3 7 4 4 18 4 8
+E 1 6 4 0 0 L+H* g f - 0 0 0 0 a + 2 3 s - h , 0 0 0 - 0 0 0 0 0 0 coda g a + - 0 0 0 0 H-L% 19 13 1 0 2 initial L+H* 0 0 0 0 a 0 l n + m - 0 0 0 0 0 0 1 + 2 3 s - 0 2 4 2 pre-nuclear 2 19 0 1 6 4 0 0 3 19 12 3 3 2 0 4 4 L+H* 0 7 3 7 4 4 18 4 8
+h 0 6 5 0 0 L+H* 0 0 0 0 a s + d - 0 0 0 0 a , 0 0 0 + 2 3 s - 0 0 onset g f - - 0 0 0 0 H-L% 19 13 1 0 0 mid L+H* g a + 0 E 0 0 0 0 a + 2 3 s - 0 1 0 - 0 0 0 0 1 0 3 3 0 2 19 0 0 6 5 0 0 2 19 13 1 1 1 1 3 3 0 0 7 3 7 4 4 18 4 8
+a 0 6 5 0 0 L+H* a s + 0 0 0 0 u0 + 3 1 s + d , 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 mid L+H* g f - 0 h 0 g a + E - 0 0 0 0 0 1 0 - 0 0 0 0 0 1 2 4 0 2 19 0 0 6 5 0 0 2 19 13 1 1 1 1 3 3 0 0 7 3 7 4 4 18 4 8
+d 0 6 5 0 0 L+H* 0 0 0 0 g s + < - 0 0 0 0 u0 , 0 0 0 + 3 1 s + L+H* 0 onset a s + - 0 0 0 0 H-L% 19 13 1 0 0 final L+H* 0 0 0 0 a 0 g f - h - 0 0 0 0 0 0 0 + 2 3 s - 1 0 1 5 0 2 19 0 0 6 5 0 1 2 19 14 2 2 0 2 2 2 0 0 7 3 7 4 4 18 4 8
+u0 0 6 5 1 0 L+H* g s + 0 0 0 0 a + 2 3 s - < , 0 0 0 - 0 0 0 0 L+H* 0 coda 0 0 0 + 3 1 s + H-L% 19 13 1 0 1 final L+H* a s + 0 d 0 0 0 0 a + 2 3 s - 0 0 0 - 0 0 0 0 0 1 0 6 0 2 19 0 0 6 5 0 1 2 19 14 2 2 0 2 2 2 0 0 7 3 7 4 4 18 4 8
+< 0 6 5 0 0 L+H* 0 0 0 0 l s + b - 0 0 0 0 a , 1 L+H* 0 + 2 3 s - 0 0 onset g s + - 0 0 0 0 H-L% 19 13 1 0 0 initial L+H* 0 0 0 0 u0 0 a s + d - 0 0 0 0 0 0 1 + 3 1 s + 2 0 6 0 0 2 19 0 0 6 5 0 0 3 19 15 3 3 2 0 1 1 0 0 7 3 6 5 5 17 5 7
+a 0 6 5 0 0 L+H* l s + 0 g f - H - 0 0 0 0 b , 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 initial L+H* g s + 0 < 0 0 0 0 u0 + 3 1 s + 0 0 1 - 0 0 0 0 1 1 5 1 0 2 19 0 0 6 5 0 0 3 19 15 3 3 2 0 1 1 0 0 7 3 6 5 5 17 5 7
+b 0 6 5 0 0 L+H* g f - 0 0 0 0 aa + 2 3 l - H , 1 L+H* 0 - 0 0 0 0 0 0 coda l s + - 0 0 0 0 H-L% 19 13 1 0 2 initial L+H* 0 0 0 0 a 0 g s + < - 0 0 0 0 0 0 1 + 2 3 s - 0 2 4 2 0 2 19 0 0 6 5 0 0 3 19 15 3 3 2 0 1 1 0 0 7 3 6 5 5 17 5 7
+H 1 5 5 0 0 L+H* 0 0 0 0 a f - ^ - 0 0 0 0 aa , 0 0 0 + 2 3 l - 0 0 onset g f - - 0 0 0 0 H-L% 19 13 1 0 0 mid L+H* l s + 0 b 0 0 0 0 a + 2 3 s - 0 0 0 - 0 0 0 0 1 0 3 3 pre-nuclear 2 19 0 1 5 5 0 0 2 19 16 4 4 1 1 3 3 L+H* 0 7 3 6 5 5 17 5 7
+aa 1 5 5 0 0 L+H* a f - 0 0 0 0 i0 + 1 1 s - ^ , 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 l - H-L% 19 13 1 0 1 mid L+H* g f - 0 H 0 l s + b - 0 0 0 0 0 0 0 - 0 0 0 0 0 1 2 4 pre-nuclear 2 19 0 1 5 5 0 0 2 19 16 4 4 1 1 3 3 L+H* 0 7 3 6 5 5 17 5 7
+^ 0 5 6 0 0 L+H* 0 0 0 0 g f - h - 0 0 0 0 i0 , 0 0 0 + 1 1 s - L+H* 0 onset a f - - 0 0 0 0 H-L% 19 13 1 0 0 final L+H* 0 0 0 0 aa 0 g f - H - 0 0 0 0 0 1 0 + 2 3 l - 1 0 1 5 0 2 19 0 0 5 6 0 1 2 19 17 1 1 0 2 2 2 0 0 7 3 6 5 5 17 5 7
+i0 0 5 6 1 0 L+H* g f - 0 0 0 0 A + 2 3 s - h , 0 0 0 - 0 0 0 0 L+H* 0 coda 0 0 0 + 1 1 s - H-L% 19 13 1 0 1 final L+H* a f - 0 ^ 0 0 0 0 aa + 2 3 l - 0 1 0 - 0 0 0 0 0 1 0 6 0 2 19 0 0 5 6 0 1 2 19 17 1 1 0 2 2 2 0 0 7 3 6 5 5 17 5 7
+h 0 5 6 0 0 L+H* 0 0 0 0 a f + D - 0 0 0 0 A , 1 L+H* 0 + 2 3 s - 0 0 onset g f - - 0 0 0 0 H-L% 19 13 1 0 0 initial L+H* 0 0 0 0 i0 0 a f - ^ - 0 0 0 0 0 0 1 + 1 1 s - 1 0 7 0 0 2 19 0 0 5 6 0 0 2 19 18 2 2 3 0 1 1 0 0 8 4 5 6 6 16 6 6
+A 0 5 6 0 0 L+H* a f + 0 0 0 0 A + 2 3 s - D , 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 initial L+H* g f - 0 h 0 0 0 0 i0 + 1 1 s - 0 0 1 - 0 0 0 0 0 1 6 1 0 2 19 0 0 5 6 0 0 2 19 18 2 2 3 0 1 1 0 0 8 4 5 6 6 16 6 6
+D 1 4 6 0 0 L+H* 0 0 0 0 l s + b - 0 0 0 0 A , 0 0 0 + 2 3 s - 0 0 onset a f + - 0 0 0 0 H-L% 19 13 1 0 0 mid L+H* 0 0 0 0 A 0 g f - h - 0 0 0 0 0 0 0 + 2 3 s - 1 0 5 2 pre-nuclear 2 19 0 1 4 6 0 0 2 19 19 3 3 2 1 3 3 L+H* 0 8 4 5 6 6 16 6 6
+A 1 4 6 0 0 L+H* l s + 0 0 0 0 a + 2 3 s - b , 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 mid L+H* a f + 0 D 0 0 0 0 A + 2 3 s - 0 0 0 - 0 0 0 0 0 1 4 3 pre-nuclear 2 19 0 1 4 6 0 0 2 19 19 3 3 2 1 3 3 L+H* 0 8 4 5 6 6 16 6 6
+b 0 4 7 0 0 L+H* 0 0 0 0 a s - t - 0 0 0 0 a , 0 0 0 + 2 3 s - L+H* 0 onset l s + - 0 0 0 0 H-L% 19 13 1 0 0 mid L+H* 0 0 0 0 A 0 a f + D - 0 0 0 0 0 1 0 + 2 3 s - 1 0 3 4 0 2 19 0 0 4 7 0 0 2 19 19 1 1 1 2 2 2 0 0 8 4 5 6 6 16 6 6
+a 0 4 7 0 0 L+H* a s - 0 0 0 0 i0 + 1 1 s - t , 0 0 0 - 0 0 0 0 L+H* 0 coda 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 mid L+H* l s + 0 b 0 0 0 0 A + 2 3 s - 0 1 0 - 0 0 0 0 0 1 2 5 0 2 19 0 0 4 7 0 0 2 19 19 1 1 1 2 2 2 0 0 8 4 5 6 6 16 6 6
+t 0 4 7 0 0 L+H* 0 0 0 0 a s - tt - 0 0 0 0 i0 , 1 L+H* 0 + 1 1 s - 0 0 onset a s - - 0 0 0 0 H-L% 19 13 1 0 0 final L+H* 0 0 0 0 a 0 l s + b - 0 0 0 0 0 0 0 + 2 3 s - 1 0 1 6 0 2 19 0 0 4 7 0 1 2 18 19 2 2 0 3 1 1 0 0 8 4 5 6 6 16 6 6
+i0 0 4 7 1 0 L+H* a s - 0 0 0 0 i1 + 1 1 s - tt , 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 1 1 s - H-L% 19 13 1 0 1 final L+H* a s - 0 t 0 0 0 0 a + 2 3 s - 0 0 0 - 0 0 0 0 0 1 0 7 0 2 19 0 0 4 7 0 1 2 18 19 2 2 0 3 1 1 0 0 8 4 5 6 6 16 6 6
+tt 1 3 7 0 0 L+H* 0 0 0 0 l s + b - 0 0 0 0 i1 , 0 0 0 + 1 1 s - 0 0 onset a s - - 0 0 0 0 H-L% 19 13 1 0 0 initial L+H* 0 0 0 0 i0 0 a s - t - 0 0 0 0 0 0 1 + 1 1 s - 2 0 4 0 pre-nuclear 2 19 0 1 3 7 0 0 3 17 19 3 3 1 0 7 7 L+H* 0 5 2 4 7 7 15 7 5
+i1 1 3 7 0 0 L+H* l s + 0 a s - t - 0 0 0 0 b , 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 1 1 s - H-L% 19 13 1 0 1 initial L+H* a s - 0 tt 0 0 0 0 i0 + 1 1 s - 0 0 1 - 0 0 0 0 1 1 3 1 pre-nuclear 2 19 0 1 3 7 0 0 3 17 19 3 3 1 0 7 7 L+H* 0 5 2 4 7 7 15 7 5
+b 1 3 7 0 0 L+H* a s - 0 0 0 0 i0 + 1 1 s - t , 0 0 0 - 0 0 0 0 0 0 coda l s + - 0 0 0 0 H-L% 19 13 1 0 2 initial L+H* 0 0 0 0 i1 0 a s - tt - 0 0 0 0 0 0 1 + 1 1 s - 0 2 2 2 pre-nuclear 2 19 0 1 3 7 0 0 3 17 19 3 3 1 0 7 7 L+H* 0 5 2 4 7 7 15 7 5
+t 0 3 8 0 0 L+H* 0 0 0 0 b f - f - 0 0 0 0 i0 , 0 0 0 + 1 1 s - 0 0 onset a s - - 0 0 0 0 H-L% 19 13 1 0 0 final L+H* l s + 0 b 0 0 0 0 i1 + 1 1 s - 0 1 0 - 0 0 0 0 1 0 1 3 0 2 19 0 0 3 8 0 1 2 16 19 1 1 0 1 6 6 0 0 5 2 4 7 7 15 7 5
+i0 0 3 8 1 0 L+H* b f - 0 0 0 0 i0 + 1 1 s - f , 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 1 1 s - H-L% 19 13 1 0 1 final L+H* a s - 0 t 0 l s + b - 0 0 0 0 0 1 0 - 0 0 0 0 0 1 0 4 0 2 19 0 0 3 8 0 1 2 16 19 1 1 0 1 6 6 0 0 5 2 4 7 7 15 7 5
+f 0 3 8 0 0 L+H* 0 0 0 0 a l + l - 0 0 0 0 i0 , 0 0 0 + 1 1 s - 0 0 onset b f - - 0 0 0 0 H-L% 19 13 1 0 0 single L+H* 0 0 0 0 i0 0 a s - t - 0 0 0 0 0 0 1 + 1 1 s - 1 0 1 0 0 2 19 0 0 3 8 0 1 2 15 19 2 2 0 0 5 5 0 0 2 1 3 8 8 14 8 4
+i0 0 3 8 1 0 L+H* a l + 0 g s + < - 0 0 0 0 l , 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 1 1 s - H-L% 19 13 1 0 1 single L+H* b f - 0 f 0 0 0 0 i0 + 1 1 s - 0 0 1 - 0 0 0 0 0 1 0 1 0 2 19 0 0 3 8 0 1 2 15 19 2 2 0 0 5 5 0 0 2 1 3 8 8 14 8 4
+l 0 3 8 0 0 L+H* g s + 0 0 0 0 a + 2 3 s - < , 0 0 0 - 0 0 0 0 0 0 coda a l + - 0 0 0 0 H-L% 19 13 1 0 0 initial L+H* 0 0 0 0 i0 0 b f - f - 0 0 0 0 0 0 1 + 1 1 s - 0 0 12 0 0 2 19 0 0 3 8 0 0 1 14 19 3 3 6 0 4 4 0 0 13 7 2 9 9 13 9 3
+< 0 3 8 0 0 L+H* 0 0 0 0 v s - k - 0 0 0 0 a , 0 0 0 + 2 3 s - 0 0 onset g s + - 0 0 0 0 H-L% 19 13 1 0 0 mid L+H* a l + 0 l 0 0 0 0 i0 + 1 1 s - 0 0 0 - 0 0 0 0 1 0 11 1 0 2 19 0 0 3 8 0 0 2 13 19 4 4 5 1 3 3 0 0 13 7 2 9 9 13 9 3
+a 0 3 8 0 0 L+H* v s - 0 0 0 0 aa + 2 3 l - k , 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 mid L+H* g s + 0 < 0 a l + l - 0 0 0 0 0 0 0 - 0 0 0 0 0 1 10 2 0 2 19 0 0 3 8 0 0 2 13 19 4 4 5 1 3 3 0 0 13 7 2 9 9 13 9 3
+k 0 3 8 0 0 L+H* 0 0 0 0 a s + d - 0 0 0 0 aa , 0 0 0 + 2 3 l - L+H* 0 onset v s - - 0 0 0 0 H-L% 19 13 1 0 0 mid L+H* 0 0 0 0 a 0 g s + < - 0 0 0 0 0 0 0 + 2 3 s - 1 0 9 3 0 2 19 0 0 3 8 0 0 2 12 19 5 5 4 2 2 2 0 0 13 7 2 9 9 13 9 3
+aa 0 3 8 0 0 L+H* a s + 0 0 0 0 ii0 + 1 1 l - d , 0 0 0 - 0 0 0 0 L+H* 0 coda 0 0 0 + 2 3 l - H-L% 19 13 1 0 1 mid L+H* v s - 0 k 0 0 0 0 a + 2 3 s - 0 0 0 - 0 0 0 0 0 1 8 4 0 2 19 0 0 3 8 0 0 2 12 19 5 5 4 2 2 2 0 0 13 7 2 9 9 13 9 3
+d 0 3 8 0 0 L+H* 0 0 0 0 l n + m - 0 0 0 0 ii0 , 1 L+H* 0 + 1 1 l - 0 0 onset a s + - 0 0 0 0 H-L% 19 13 1 0 0 mid L+H* 0 0 0 0 aa 0 v s - k - 0 0 0 0 0 0 0 + 2 3 l - 1 0 7 5 0 2 19 0 0 3 8 0 0 2 11 19 6 6 3 3 1 1 0 0 13 7 2 9 9 13 9 3
+ii0 0 3 8 0 0 L+H* l n + 0 0 0 0 ii0 + 1 1 l - m , 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 1 1 l - H-L% 19 13 1 0 1 mid L+H* a s + 0 d 0 0 0 0 aa + 2 3 l - 0 0 0 - 0 0 0 0 0 1 6 6 0 2 19 0 0 3 8 0 0 2 11 19 6 6 3 3 1 1 0 0 13 7 2 9 9 13 9 3
+m 1 2 8 0 0 L+H* 0 0 0 0 p r + y - 0 0 0 0 ii0 , 0 0 0 + 1 1 l - 0 0 onset l n + - 0 0 0 0 H-L% 19 13 1 0 0 mid L+H* 0 0 0 0 ii0 0 a s + d - 0 0 0 0 0 0 0 + 1 1 l - 1 0 5 7 pre-nuclear 2 19 0 1 2 8 0 0 2 10 19 7 7 2 4 4 4 L+H* 0 13 7 2 9 9 13 9 3
+ii0 1 2 8 0 0 L+H* p r + 0 0 0 0 a + 2 3 s - y , 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 1 1 l - H-L% 19 13 1 0 1 mid L+H* l n + 0 m 0 0 0 0 ii0 + 1 1 l - 0 0 0 - 0 0 0 0 0 1 4 8 pre-nuclear 2 19 0 1 2 8 0 0 2 10 19 7 7 2 4 4 4 L+H* 0 13 7 2 9 9 13 9 3
+y 0 2 9 0 0 L+H* 0 0 0 0 a s - t - 0 0 0 0 a , 0 0 0 + 2 3 s - 0 0 onset p r + - 0 0 0 0 H-L% 19 13 1 0 0 mid L+H* 0 0 0 0 ii0 0 l n + m - 0 0 0 0 0 1 0 + 1 1 l - 1 0 3 9 0 2 19 0 0 2 9 0 0 2 9 19 1 1 1 5 3 3 0 0 13 7 2 9 9 13 9 3
+a 0 2 9 0 0 L+H* a s - 0 0 0 0 i0 + 1 1 s - t , 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 mid L+H* p r + 0 y 0 0 0 0 ii0 + 1 1 l - 0 1 0 - 0 0 0 0 0 1 2 10 0 2 19 0 0 2 9 0 0 2 9 19 1 1 1 5 3 3 0 0 13 7 2 9 9 13 9 3
+t 0 2 9 0 0 L+H* 0 0 0 0 a f - SS - 0 0 0 0 i0 , 0 0 0 + 1 1 s - L+H* 0 onset a s - - 0 0 0 0 H-L% 19 13 1 0 0 final L+H* 0 0 0 0 a 0 p r + y - 0 0 0 0 0 0 0 + 2 3 s - 1 0 1 11 0 2 19 0 0 2 9 0 1 2 8 19 2 2 0 6 2 2 0 0 13 7 2 9 9 13 9 3
+i0 0 2 9 1 0 L+H* a f - 0 0 0 0 II0 + 1 1 s - SS , 0 0 0 - 0 0 0 0 L+H* 0 coda 0 0 0 + 1 1 s - H-L% 19 13 1 0 1 final L+H* a s - 0 t 0 0 0 0 a + 2 3 s - 0 0 0 - 0 0 0 0 0 1 0 12 0 2 19 0 0 2 9 0 1 2 8 19 2 2 0 6 2 2 0 0 13 7 2 9 9 13 9 3
+SS 0 2 9 0 0 L+H* 0 0 0 0 a n + n - 0 0 0 0 II0 , 1 L+H* 0 + 1 1 s - 0 0 onset a f - - 0 0 0 0 H-L% 19 13 1 0 0 initial L+H* 0 0 0 0 i0 0 a s - t - 0 0 0 0 0 0 1 + 1 1 s - 1 0 7 0 0 2 19 0 0 2 9 0 0 2 7 19 3 3 3 0 1 1 0 0 8 4 1 10 10 12 10 2
+II0 0 2 9 0 0 L+H* a n + 0 0 0 0 ii0 + 1 1 l - n , 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 1 1 s - H-L% 19 13 1 0 1 initial L+H* a f - 0 SS 0 0 0 0 i0 + 1 1 s - 0 0 1 - 0 0 0 0 0 1 6 1 0 2 19 0 0 2 9 0 0 2 7 19 3 3 3 0 1 1 0 0 8 4 1 10 10 12 10 2
+n 1 1 9 0 0 L+H* 0 0 0 0 p r + y - 0 0 0 0 ii0 , 0 0 0 + 1 1 l - 0 0 onset a n + - 0 0 0 0 H-L% 19 13 1 0 0 mid L+H* 0 0 0 0 II0 0 a f - SS - 0 0 0 0 0 0 0 + 1 1 s - 1 0 5 2 pre-nuclear 2 19 0 1 1 9 0 0 2 6 19 4 4 2 1 5 5 L+H* 0 8 4 1 10 10 12 10 2
+ii0 1 1 9 0 0 L+H* p r + 0 0 0 0 a + 2 3 s - y , 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 1 1 l - H-L% 19 13 1 0 1 mid L+H* a n + 0 n 0 0 0 0 II0 + 1 1 s - 0 0 0 - 0 0 0 0 0 1 4 3 pre-nuclear 2 19 0 1 1 9 0 0 2 6 19 4 4 2 1 5 5 L+H* 0 8 4 1 10 10 12 10 2
+y 0 1 10 0 0 L+H* 0 0 0 0 a s - t - 0 0 0 0 a , 0 0 0 + 2 3 s - 0 0 onset p r + - 0 0 0 0 H-L% 19 13 1 0 0 mid L+H* 0 0 0 0 ii0 0 a n + n - 0 0 0 0 0 1 0 + 1 1 l - 1 0 3 4 0 2 19 0 0 1 10 0 0 2 5 19 1 1 1 2 4 4 0 0 8 4 1 10 10 12 10 2
+a 0 1 10 0 0 L+H* a s - 0 0 0 0 i0 + 1 1 s - t , 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - H-L% 19 13 1 0 1 mid L+H* p r + 0 y 0 0 0 0 ii0 + 1 1 l - 0 1 0 - 0 0 0 0 0 1 2 5 0 2 19 0 0 1 10 0 0 2 5 19 1 1 1 2 4 4 0 0 8 4 1 10 10 12 10 2
+t 0 1 10 0 0 L+H* 0 0 0 0 a l + l - 0 0 0 0 i0 , 0 0 0 + 1 1 s - 0 0 onset a s - - 0 0 0 0 H-L% 19 13 1 0 0 final L+H* 0 0 0 0 a 0 p r + y - 0 0 0 0 0 0 0 + 2 3 s - 1 0 1 6 0 2 19 0 0 1 10 0 1 2 4 19 2 2 0 3 3 3 0 0 8 4 1 10 10 12 10 2
+i0 0 1 10 1 0 L+H* a l + 0 0 0 0 u0 + 3 1 s + l , 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 1 1 s - H-L% 19 13 1 0 1 final L+H* a s - 0 t 0 0 0 0 a + 2 3 s - 0 0 0 - 0 0 0 0 0 1 0 7 0 2 19 0 0 1 10 0 1 2 4 19 2 2 0 3 3 3 0 0 8 4 1 10 10 12 10 2
+l 0 1 10 0 0 L+H* 0 0 0 0 a l + l - 0 0 0 0 u0 , 0 0 0 + 3 1 s + L+H* 0 onset a l + - 0 0 0 0 H-L% 19 13 1 0 0 initial L+H* 0 0 0 0 i0 0 a s - t - 0 0 0 0 0 0 1 + 1 1 s - 2 0 8 0 0 2 19 0 0 1 10 0 0 3 3 19 3 3 3 0 2 2 0 0 9 4 0 11 11 11 11 1
+u0 0 1 10 0 0 L+H* a l + 0 g a + E - 0 0 0 0 l , 0 0 0 - 0 0 0 0 L+H* 0 coda 0 0 0 + 3 1 s + H-L% 19 13 1 0 1 initial L+H* a l + 0 l 0 0 0 0 i0 + 1 1 s - 0 0 1 - 0 0 0 0 1 1 7 1 0 2 19 0 0 1 10 0 0 3 3 19 3 3 3 0 2 2 0 0 9 4 0 11 11 11 11 1
+l 0 1 10 0 0 L+H* g a + 0 0 0 0 u0 + 3 1 s + E , 0 0 0 - 0 0 0 0 L+H* 0 coda a l + - 0 0 0 0 H-L% 19 13 1 0 2 initial L+H* 0 0 0 0 u0 0 a l + l - 0 0 0 0 0 0 1 + 3 1 s + 0 2 6 2 0 2 19 0 0 1 10 0 0 3 3 19 3 3 3 0 2 2 0 0 9 4 0 11 11 11 11 1
+E 0 1 10 0 0 L+H* 0 0 0 0 a l + l - 0 0 0 0 u0 , 1 L+H* 0 + 3 1 s + 0 H-L% onset g a + - 0 0 0 0 H-L% 19 13 1 0 0 mid L+H* a l + 0 l 0 0 0 0 u0 + 3 1 s + 0 0 0 - 0 0 0 0 1 0 5 3 0 2 19 0 0 1 10 0 0 2 2 19 4 4 2 1 1 1 0 0 9 4 0 11 11 11 11 1
+u0 0 1 10 0 0 L+H* a l + 0 0 0 0 uu0 + 3 1 l + l , 1 L+H* 0 - 0 0 0 0 0 H-L% coda 0 0 0 + 3 1 s + H-L% 19 13 1 0 1 mid L+H* g a + 0 E 0 a l + l - 0 0 0 0 0 0 0 - 0 0 0 0 0 1 4 4 0 2 19 0 0 1 10 0 0 2 2 19 4 4 2 1 1 1 0 0 9 4 0 11 11 11 11 1
+l 1 0 10 0 0 0 0 0 0 0 l n + m - 0 0 0 0 uu0 , 0 0 H-L% + 3 1 l + L+H* 0 onset a l + - 0 0 0 0 H-L% 19 13 1 0 0 mid L+H* 0 0 0 0 u0 0 g a + E - 0 0 0 0 0 0 0 + 3 1 s + 1 0 3 5 pre-nuclear 2 19 0 1 0 10 0 0 2 1 19 5 5 1 2 1 1 L+H* 0 9 4 0 11 11 11 11 1
+uu0 1 0 10 0 0 0 l n + 0 0 0 0 i0 + 1 1 s - m , 0 0 H-L% - 0 0 0 0 L+H* 0 coda 0 0 0 + 3 1 l + H-L% 19 13 1 0 1 mid L+H* a l + 0 l 0 0 0 0 u0 + 3 1 s + 0 0 0 - 0 0 0 0 0 1 2 6 pre-nuclear 2 19 0 1 0 10 0 0 2 1 19 5 5 1 2 1 1 L+H* 0 9 4 0 11 11 11 11 1
+m 0 0 11 0 0 0 0 0 0 0 0 0 0 _ 0 0 0 0 0 i0 , 1 L+H* 0 + 1 1 s - 0 0 onset l n + - 0 0 0 0 H-L% 19 13 1 0 0 final L+H* 0 0 0 0 uu0 0 a l + l - 0 0 0 0 0 1 0 + 3 1 l + 1 0 1 7 finalHigh 2 19 0 0 0 11 0 4 2 0 19 1 1 0 3 0 0 0 H-L% 9 4 0 11 11 11 11 1
+i0 0 0 11 4 0 0 0 0 0 1 g s + < - 0 0 0 0 _ , 1 L+H* 0 0 0 0 0 0 0 0 coda 0 0 0 + 1 1 s - H-L% 19 13 1 0 1 final L+H* l n + 0 m 0 0 0 0 uu0 + 3 1 l + 0 1 0 - 0 0 0 0 0 1 0 8 finalHigh 2 19 0 0 0 11 0 4 2 0 19 1 1 0 3 0 0 0 H-L% 9 4 0 11 11 11 11 1
+_ 0 0 11 0 0 0 g s + 0 0 0 0 a + 2 3 s - < 0 1 L+H* 0 - 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 H-L% 19 13 1 0 0 0 L+H* 0 0 0 0 i0 0 l n + m - 0 0 0 0 0 0 4 + 1 1 s - 0 0 0 0 0 2 19 0 0 0 11 0 0 0 0 19 2 2 0 0 0 0 0 0 0 0 0 12 0 11 12 0
+< 1 9 0 0 0 L+H* 0 0 0 0 a n + n - 0 0 0 0 a 0 0 0 0 + 2 3 s - 0 0 onset g s + - 0 0 0 0 L-L% 19 11 0 1 0 single 0 0 0 0 1 _ H-L% 0 0 0 i0 + 1 1 s - , 0 4 0 0 0 0 0 2 0 2 0 pre-nuclear 2 19 0 1 9 0 0 1 3 19 0 0 0 0 0 3 3 L+H* 0 3 1 10 0 1 10 12 10
+a 1 9 0 0 0 L+H* a n + 0 a s - t - 0 0 0 0 n 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - L-L% 19 11 0 1 1 single 0 g s + 0 < H-L% 0 0 0 _ 0 0 0 0 0 , 0 4 - 0 0 0 0 1 1 1 1 pre-nuclear 2 19 0 1 9 0 0 1 3 19 0 0 0 0 0 3 3 L+H* 0 3 1 10 0 1 10 12 10
+n 1 9 0 1 0 L+H* a s - 0 0 0 0 a + 2 3 s - t 0 0 0 0 - 0 0 0 0 0 0 coda a n + - 0 0 0 0 L-L% 19 11 0 1 2 single 0 0 0 0 0 a H-L% g s + < - 0 0 0 0 , 0 4 + 2 3 s - 0 2 0 2 pre-nuclear 2 19 0 1 9 0 0 1 3 19 0 0 0 0 0 3 3 L+H* 0 3 1 10 0 1 10 12 10
+t 0 9 1 0 0 L+H* 0 0 0 0 a f - s - 0 0 0 0 a 0 0 0 0 + 2 3 s - L+H* 0 onset a s - - 0 0 0 0 L-L% 19 11 0 1 0 initial L+H* a n + 0 n H-L% 0 0 0 a + 2 3 s - , 1 1 - 0 0 0 0 2 0 8 0 0 2 19 0 0 9 1 0 0 3 19 1 1 1 3 0 2 2 0 0 9 4 9 1 2 9 13 9
+a 0 9 1 0 0 L+H* a f - 0 a s - t - 0 0 0 0 s 0 0 0 0 - 0 0 0 0 L+H* 0 coda 0 0 0 + 2 3 s - L-L% 19 11 0 1 1 initial L+H* a s - 0 t H-L% a n + n - 0 0 0 0 , 1 1 - 0 0 0 0 1 1 7 1 0 2 19 0 0 9 1 0 0 3 19 1 1 1 3 0 2 2 0 0 9 4 9 1 2 9 13 9
+s 0 9 1 0 0 L+H* a s - 0 0 0 0 a + 2 3 s - t 0 0 0 0 - 0 0 0 0 L+H* 0 coda a f - - 0 0 0 0 L-L% 19 11 0 1 2 initial L+H* 0 0 0 0 a H-L% a s - t - 0 0 0 0 , 1 1 + 2 3 s - 0 2 6 2 0 2 19 0 0 9 1 0 0 3 19 1 1 1 3 0 2 2 0 0 9 4 9 1 2 9 13 9
+t 0 9 1 0 0 L+H* 0 0 0 0 l n + m - 0 0 0 0 a 0 1 L+H* 0 + 2 3 s - 0 0 onset a s - - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* a f - 0 s H-L% 0 0 0 a + 2 3 s - , 0 0 - 0 0 0 0 1 0 5 3 0 2 19 0 0 9 1 0 0 2 19 2 2 2 2 1 1 1 0 0 9 4 9 1 2 9 13 9
+a 0 9 1 0 0 L+H* l n + 0 0 0 0 i0 + 1 1 s - m 0 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - L-L% 19 11 0 1 1 mid L+H* a s - 0 t H-L% a f - s - 0 0 0 0 , 0 0 - 0 0 0 0 0 1 4 4 0 2 19 0 0 9 1 0 0 2 19 2 2 2 2 1 1 1 0 0 9 4 9 1 2 9 13 9
+m 1 8 1 0 0 L+H* 0 0 0 0 a r + rr - 0 0 0 0 i0 0 0 0 0 + 1 1 s - 0 0 onset l n + - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* 0 0 0 0 a H-L% a s - t - 0 0 0 0 , 0 0 + 2 3 s - 1 0 3 5 pre-nuclear 2 19 0 1 8 1 0 0 2 19 3 3 3 1 2 4 4 L+H* 0 9 4 9 1 2 9 13 9
+i0 1 8 1 0 0 L+H* a r + 0 0 0 0 a + 2 3 s - rr 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 1 1 s - L-L% 19 11 0 1 1 mid L+H* l n + 0 m H-L% 0 0 0 a + 2 3 s - , 0 0 - 0 0 0 0 0 1 2 6 pre-nuclear 2 19 0 1 8 1 0 0 2 19 3 3 3 1 2 4 4 L+H* 0 9 4 9 1 2 9 13 9
+rr 0 8 2 0 0 L+H* 0 0 0 0 a s + d - 0 0 0 0 a 0 0 0 0 + 2 3 s - 0 0 onset a r + - 0 0 0 0 L-L% 19 11 0 1 0 final L+H* 0 0 0 0 i0 H-L% l n + m - 0 0 0 0 , 1 0 + 1 1 s - 1 0 1 7 0 2 19 0 0 8 2 0 1 2 19 4 1 1 0 3 3 3 0 0 9 4 9 1 2 9 13 9
+a 0 8 2 1 0 L+H* a s + 0 0 0 0 a + 2 3 s - d 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - L-L% 19 11 0 1 1 final L+H* a r + 0 rr H-L% 0 0 0 i0 + 1 1 s - , 1 0 - 0 0 0 0 0 1 0 8 0 2 19 0 0 8 2 0 1 2 19 4 1 1 0 3 3 3 0 0 9 4 9 1 2 9 13 9
+d 0 8 2 0 0 L+H* 0 0 0 0 a r + r - 0 0 0 0 a 0 0 0 0 + 2 3 s - L+H* 0 onset a s + - 0 0 0 0 L-L% 19 11 0 1 0 initial L+H* 0 0 0 0 a H-L% a r + rr - 0 0 0 0 , 0 1 + 2 3 s - 1 0 7 0 0 2 19 0 0 8 2 0 0 2 19 5 2 2 3 0 2 2 0 0 8 4 8 2 3 8 14 8
+a 0 8 2 0 0 L+H* a r + 0 0 0 0 a + 2 3 s - r 0 0 0 0 - 0 0 0 0 L+H* 0 coda 0 0 0 + 2 3 s - L-L% 19 11 0 1 1 initial L+H* a s + 0 d H-L% 0 0 0 a + 2 3 s - , 0 1 - 0 0 0 0 0 1 6 1 0 2 19 0 0 8 2 0 0 2 19 5 2 2 3 0 2 2 0 0 8 4 8 2 3 8 14 8
+r 0 8 2 0 0 L+H* 0 0 0 0 p s + j - 0 0 0 0 a 0 1 L+H* 0 + 2 3 s - 0 0 onset a r + - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* 0 0 0 0 a H-L% a s + d - 0 0 0 0 , 0 0 + 2 3 s - 1 0 5 2 0 2 19 0 0 8 2 0 0 2 19 6 3 3 2 1 1 1 0 0 8 4 8 2 3 8 14 8
+a 0 8 2 0 0 L+H* p s + 0 0 0 0 aa + 2 3 l - j 0 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - L-L% 19 11 0 1 1 mid L+H* a r + 0 r H-L% 0 0 0 a + 2 3 s - , 0 0 - 0 0 0 0 0 1 4 3 0 2 19 0 0 8 2 0 0 2 19 6 3 3 2 1 1 1 0 0 8 4 8 2 3 8 14 8
+j 1 7 2 0 0 L+H* 0 0 0 0 a s - t - 0 0 0 0 aa 0 0 0 0 + 2 3 l - 0 0 onset p s + - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* 0 0 0 0 a H-L% a r + r - 0 0 0 0 , 0 0 + 2 3 s - 1 0 3 4 pre-nuclear 2 19 0 1 7 2 0 0 2 19 7 4 4 1 2 4 4 L+H* 0 8 4 8 2 3 8 14 8
+aa 1 7 2 0 0 L+H* a s - 0 0 0 0 u0 + 3 1 s + t 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 l - L-L% 19 11 0 1 1 mid L+H* p s + 0 j H-L% 0 0 0 a + 2 3 s - , 0 0 - 0 0 0 0 0 1 2 5 pre-nuclear 2 19 0 1 7 2 0 0 2 19 7 4 4 1 2 4 4 L+H* 0 8 4 8 2 3 8 14 8
+t 0 7 3 0 0 L+H* 0 0 0 0 a l + l - 0 0 0 0 u0 0 0 0 0 + 3 1 s + 0 0 onset a s - - 0 0 0 0 L-L% 19 11 0 1 0 final L+H* 0 0 0 0 aa H-L% p s + j - 0 0 0 0 , 1 0 + 2 3 l - 1 0 1 6 0 2 19 0 0 7 3 0 1 2 19 8 1 1 0 3 3 3 0 0 8 4 8 2 3 8 14 8
+u0 0 7 3 1 0 L+H* a l + 0 g f - H - 0 0 0 0 l 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 3 1 s + L-L% 19 11 0 1 1 final L+H* a s - 0 t H-L% 0 0 0 aa + 2 3 l - , 1 0 - 0 0 0 0 0 1 0 7 0 2 19 0 0 7 3 0 1 2 19 8 1 1 0 3 3 3 0 0 8 4 8 2 3 8 14 8
+l 0 7 3 0 0 L+H* g f - 0 0 0 0 a + 2 3 s - H 0 0 0 0 - 0 0 0 0 L+H* 0 coda a l + - 0 0 0 0 L-L% 19 11 0 1 0 initial L+H* 0 0 0 0 u0 H-L% a s - t - 0 0 0 0 , 0 1 + 3 1 s + 0 0 8 0 0 2 19 0 0 7 3 0 0 1 19 9 2 2 4 0 2 2 0 0 9 5 7 3 4 7 15 7
+H 0 7 3 0 0 L+H* 0 0 0 0 a r + r - 0 0 0 0 a 0 1 L+H* 0 + 2 3 s - 0 0 onset g f - - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* a l + 0 l H-L% 0 0 0 u0 + 3 1 s + , 0 0 - 0 0 0 0 1 0 7 1 0 2 19 0 0 7 3 0 0 2 19 10 3 3 3 1 1 1 0 0 9 5 7 3 4 7 15 7
+a 0 7 3 0 0 L+H* a r + 0 0 0 0 aa + 2 3 l - r 0 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - L-L% 19 11 0 1 1 mid L+H* g f - 0 H H-L% a l + l - 0 0 0 0 , 0 0 - 0 0 0 0 0 1 6 2 0 2 19 0 0 7 3 0 0 2 19 10 3 3 3 1 1 1 0 0 9 5 7 3 4 7 15 7
+r 1 6 3 0 0 L+H* 0 0 0 0 a r + r - 0 0 0 0 aa 0 0 0 0 + 2 3 l - 0 0 onset a r + - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* 0 0 0 0 a H-L% g f - H - 0 0 0 0 , 0 0 + 2 3 s - 1 0 5 3 pre-nuclear 2 19 0 1 6 3 0 0 2 19 11 4 4 2 2 7 7 L+H* 0 9 5 7 3 4 7 15 7
+aa 1 6 3 0 0 L+H* a r + 0 0 0 0 a + 2 3 s - r 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 l - L-L% 19 11 0 1 1 mid L+H* a r + 0 r H-L% 0 0 0 a + 2 3 s - , 0 0 - 0 0 0 0 0 1 4 4 pre-nuclear 2 19 0 1 6 3 0 0 2 19 11 4 4 2 2 7 7 L+H* 0 9 5 7 3 4 7 15 7
+r 0 6 4 0 0 L+H* 0 0 0 0 a s - t - 0 0 0 0 a 0 0 0 0 + 2 3 s - 0 0 onset a r + - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* 0 0 0 0 aa H-L% a r + r - 0 0 0 0 , 1 0 + 2 3 l - 1 0 3 5 0 2 19 0 0 6 4 0 0 2 19 12 1 1 1 3 6 6 0 0 9 5 7 3 4 7 15 7
+a 0 6 4 0 0 L+H* a s - 0 0 0 0 i0 + 1 1 s - t 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - L-L% 19 11 0 1 1 mid L+H* a r + 0 r H-L% 0 0 0 aa + 2 3 l - , 1 0 - 0 0 0 0 0 1 2 6 0 2 19 0 0 6 4 0 0 2 19 12 1 1 1 3 6 6 0 0 9 5 7 3 4 7 15 7
+t 0 6 4 0 0 L+H* 0 0 0 0 l r + w - 0 0 0 0 i0 0 0 0 0 + 1 1 s - 0 0 onset a s - - 0 0 0 0 L-L% 19 11 0 1 0 final L+H* 0 0 0 0 a H-L% a r + r - 0 0 0 0 , 0 0 + 2 3 s - 1 0 1 7 0 2 19 0 0 6 4 0 1 2 19 13 2 2 0 4 5 5 0 0 9 5 7 3 4 7 15 7
+i0 0 6 4 1 0 L+H* l r + 0 0 0 0 a + 2 3 s - w 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 1 1 s - L-L% 19 11 0 1 1 final L+H* a s - 0 t H-L% 0 0 0 a + 2 3 s - , 0 0 - 0 0 0 0 0 1 0 8 0 2 19 0 0 6 4 0 1 2 19 13 2 2 0 4 5 5 0 0 9 5 7 3 4 7 15 7
+w 0 6 4 0 0 L+H* 0 0 0 0 l n + m - 0 0 0 0 a 0 0 0 0 + 2 3 s - 0 0 onset l r + - 0 0 0 0 L-L% 19 11 0 1 0 initial L+H* 0 0 0 0 i0 H-L% a s - t - 0 0 0 0 , 0 1 + 1 1 s - 1 0 12 0 0 2 19 0 0 6 4 0 0 2 19 14 3 3 5 0 4 4 0 0 13 6 6 4 5 6 16 6
+a 0 6 4 0 0 L+H* l n + 0 0 0 0 u0 + 3 1 s + m 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - L-L% 19 11 0 1 1 initial L+H* l r + 0 w H-L% 0 0 0 i0 + 1 1 s - , 0 1 - 0 0 0 0 0 1 11 1 0 2 19 0 0 6 4 0 0 2 19 14 3 3 5 0 4 4 0 0 13 6 6 4 5 6 16 6
+m 0 6 4 0 0 L+H* 0 0 0 0 a f - s - 0 0 0 0 u0 0 0 0 0 + 3 1 s + 0 0 onset l n + - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* 0 0 0 0 a H-L% l r + w - 0 0 0 0 , 0 0 + 2 3 s - 2 0 10 2 0 2 19 0 0 6 4 0 0 3 19 15 4 4 4 1 3 3 0 0 13 6 6 4 5 6 16 6
+u0 0 6 4 0 0 L+H* a f - 0 a s - t - 0 0 0 0 s 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 3 1 s + L-L% 19 11 0 1 1 mid L+H* l n + 0 m H-L% 0 0 0 a + 2 3 s - , 0 0 - 0 0 0 0 1 1 9 3 0 2 19 0 0 6 4 0 0 3 19 15 4 4 4 1 3 3 0 0 13 6 6 4 5 6 16 6
+s 0 6 4 0 0 L+H* a s - 0 0 0 0 a + 2 3 s - t 0 0 0 0 - 0 0 0 0 0 0 coda a f - - 0 0 0 0 L-L% 19 11 0 1 2 mid L+H* 0 0 0 0 u0 H-L% l n + m - 0 0 0 0 , 0 0 + 3 1 s + 0 2 8 4 0 2 19 0 0 6 4 0 0 3 19 15 4 4 4 1 3 3 0 0 13 6 6 4 5 6 16 6
+t 0 6 4 0 0 L+H* 0 0 0 0 l r + w - 0 0 0 0 a 0 0 0 0 + 2 3 s - L+H* 0 onset a s - - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* a f - 0 s H-L% 0 0 0 u0 + 3 1 s + , 0 0 - 0 0 0 0 1 0 7 5 0 2 19 0 0 6 4 0 0 2 19 16 5 5 3 2 2 2 0 0 13 6 6 4 5 6 16 6
+a 0 6 4 0 0 L+H* l r + 0 0 0 0 a + 2 3 s - w 0 0 0 0 - 0 0 0 0 L+H* 0 coda 0 0 0 + 2 3 s - L-L% 19 11 0 1 1 mid L+H* a s - 0 t H-L% a f - s - 0 0 0 0 , 0 0 - 0 0 0 0 0 1 6 6 0 2 19 0 0 6 4 0 0 2 19 16 5 5 3 2 2 2 0 0 13 6 6 4 5 6 16 6
+w 0 6 4 0 0 L+H* 0 0 0 0 p r + y - 0 0 0 0 a 0 1 L+H* 0 + 2 3 s - 0 0 onset l r + - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* 0 0 0 0 a H-L% a s - t - 0 0 0 0 , 0 0 + 2 3 s - 1 0 5 7 0 2 19 0 0 6 4 0 0 2 19 17 6 6 2 3 1 1 0 0 13 6 6 4 5 6 16 6
+a 0 6 4 0 0 L+H* p r + 0 0 0 0 aa + 2 3 l - y 0 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - L-L% 19 11 0 1 1 mid L+H* l r + 0 w H-L% 0 0 0 a + 2 3 s - , 0 0 - 0 0 0 0 0 1 4 8 0 2 19 0 0 6 4 0 0 2 19 17 6 6 2 3 1 1 0 0 13 6 6 4 5 6 16 6
+y 1 5 4 0 0 L+H* 0 0 0 0 a s - t - 0 0 0 0 aa 0 0 0 0 + 2 3 l - 0 0 onset p r + - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* 0 0 0 0 a H-L% l r + w - 0 0 0 0 , 0 0 + 2 3 s - 1 0 3 9 pre-nuclear 2 19 0 1 5 4 0 0 2 19 18 7 7 1 4 3 3 L+H* 0 13 6 6 4 5 6 16 6
+aa 1 5 4 0 0 L+H* a s - 0 0 0 0 u0 + 3 1 s + t 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 l - L-L% 19 11 0 1 1 mid L+H* p r + 0 y H-L% 0 0 0 a + 2 3 s - , 0 0 - 0 0 0 0 0 1 2 10 pre-nuclear 2 19 0 1 5 4 0 0 2 19 18 7 7 1 4 3 3 L+H* 0 13 6 6 4 5 6 16 6
+t 0 5 5 0 0 L+H* 0 0 0 0 a r + rr - 0 0 0 0 u0 0 0 0 0 + 3 1 s + L+H* 0 onset a s - - 0 0 0 0 L-L% 19 11 0 1 0 final L+H* 0 0 0 0 aa H-L% p r + y - 0 0 0 0 , 1 0 + 2 3 l - 1 0 1 11 0 2 19 0 0 5 5 0 1 2 18 19 1 1 0 5 2 2 0 0 13 6 6 4 5 6 16 6
+u0 0 5 5 1 0 L+H* a r + 0 0 0 0 U0 + 3 1 s + rr 0 0 0 0 - 0 0 0 0 L+H* 0 coda 0 0 0 + 3 1 s + L-L% 19 11 0 1 1 final L+H* a s - 0 t H-L% 0 0 0 aa + 2 3 l - , 1 0 - 0 0 0 0 0 1 0 12 0 2 19 0 0 5 5 0 1 2 18 19 1 1 0 5 2 2 0 0 13 6 6 4 5 6 16 6
+rr 0 5 5 0 0 L+H* 0 0 0 0 a s + T - 0 0 0 0 U0 0 1 L+H* 0 + 3 1 s + 0 0 onset a r + - 0 0 0 0 L-L% 19 11 0 1 0 initial L+H* 0 0 0 0 u0 H-L% a s - t - 0 0 0 0 , 0 1 + 3 1 s + 1 0 7 0 0 2 19 0 0 5 5 0 0 2 17 19 2 2 3 0 1 1 0 0 8 4 5 5 6 5 17 5
+U0 0 5 5 0 0 L+H* a s + 0 0 0 0 UU0 + 3 1 s + T 0 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 3 1 s + L-L% 19 11 0 1 1 initial L+H* a r + 0 rr H-L% 0 0 0 u0 + 3 1 s + , 0 1 - 0 0 0 0 0 1 6 1 0 2 19 0 0 5 5 0 0 2 17 19 2 2 3 0 1 1 0 0 8 4 5 5 6 5 17 5
+T 1 4 5 0 0 L+H* 0 0 0 0 l s + b - 0 0 0 0 UU0 0 0 0 0 + 3 1 s + 0 0 onset a s + - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* 0 0 0 0 U0 H-L% a r + rr - 0 0 0 0 , 0 0 + 3 1 s + 1 0 5 2 pre-nuclear 2 19 0 1 4 5 0 0 2 16 19 3 3 2 1 7 7 L+H* 0 8 4 5 5 6 5 17 5
+UU0 1 4 5 0 0 L+H* l s + 0 0 0 0 a + 2 3 s - b 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 3 1 s + L-L% 19 11 0 1 1 mid L+H* a s + 0 T H-L% 0 0 0 U0 + 3 1 s + , 0 0 - 0 0 0 0 0 1 4 3 pre-nuclear 2 19 0 1 4 5 0 0 2 16 19 3 3 2 1 7 7 L+H* 0 8 4 5 5 6 5 17 5
+b 0 4 6 0 0 L+H* 0 0 0 0 a s - t - 0 0 0 0 a 0 0 0 0 + 2 3 s - 0 0 onset l s + - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* 0 0 0 0 UU0 H-L% a s + T - 0 0 0 0 , 1 0 + 3 1 s + 1 0 3 4 0 2 19 0 0 4 6 0 0 2 15 19 1 1 1 2 6 6 0 0 8 4 5 5 6 5 17 5
+a 0 4 6 0 0 L+H* a s - 0 0 0 0 i0 + 1 1 s - t 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - L-L% 19 11 0 1 1 mid L+H* l s + 0 b H-L% 0 0 0 UU0 + 3 1 s + , 1 0 - 0 0 0 0 0 1 2 5 0 2 19 0 0 4 6 0 0 2 15 19 1 1 1 2 6 6 0 0 8 4 5 5 6 5 17 5
+t 0 4 6 0 0 L+H* 0 0 0 0 b f - f - 0 0 0 0 i0 0 0 0 0 + 1 1 s - 0 0 onset a s - - 0 0 0 0 L-L% 19 11 0 1 0 final L+H* 0 0 0 0 a H-L% l s + b - 0 0 0 0 , 0 0 + 2 3 s - 1 0 1 6 0 2 19 0 0 4 6 0 1 2 14 19 2 2 0 3 5 5 0 0 8 4 5 5 6 5 17 5
+i0 0 4 6 1 0 L+H* b f - 0 0 0 0 i0 + 1 1 s - f 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 1 1 s - L-L% 19 11 0 1 1 final L+H* a s - 0 t H-L% 0 0 0 a + 2 3 s - , 0 0 - 0 0 0 0 0 1 0 7 0 2 19 0 0 4 6 0 1 2 14 19 2 2 0 3 5 5 0 0 8 4 5 5 6 5 17 5
+f 0 4 6 0 0 L+H* 0 0 0 0 a l + l - 0 0 0 0 i0 0 0 0 0 + 1 1 s - 0 0 onset b f - - 0 0 0 0 L-L% 19 11 0 1 0 single L+H* 0 0 0 0 i0 H-L% a s - t - 0 0 0 0 , 0 1 + 1 1 s - 1 0 1 0 0 2 19 0 0 4 6 0 1 2 13 19 3 3 0 0 4 4 0 0 2 1 4 6 7 4 18 4
+i0 0 4 6 1 0 L+H* a l + 0 g s + < - 0 0 0 0 l 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 1 1 s - L-L% 19 11 0 1 1 single L+H* b f - 0 f H-L% 0 0 0 i0 + 1 1 s - , 0 1 - 0 0 0 0 0 1 0 1 0 2 19 0 0 4 6 0 1 2 13 19 3 3 0 0 4 4 0 0 2 1 4 6 7 4 18 4
+l 0 4 6 0 0 L+H* g s + 0 0 0 0 i0 + 1 1 s - < 0 0 0 0 - 0 0 0 0 0 0 coda a l + - 0 0 0 0 L-L% 19 11 0 1 0 initial L+H* 0 0 0 0 i0 H-L% b f - f - 0 0 0 0 , 0 1 + 1 1 s - 0 0 9 0 0 2 19 0 0 4 6 0 0 1 12 19 4 4 4 0 3 3 0 0 10 5 3 7 8 3 19 3
+< 0 4 6 0 0 L+H* 0 0 0 0 a r + r - 0 0 0 0 i0 0 0 0 0 + 1 1 s - L+H* 0 onset g s + - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* a l + 0 l H-L% 0 0 0 i0 + 1 1 s - , 0 0 - 0 0 0 0 2 0 8 1 0 2 19 0 0 4 6 0 0 3 11 19 5 5 3 1 2 2 0 0 10 5 3 7 8 3 19 3
+i0 0 4 6 0 0 L+H* a r + 0 a s - t - 0 0 0 0 r 0 0 0 0 - 0 0 0 0 L+H* 0 coda 0 0 0 + 1 1 s - L-L% 19 11 0 1 1 mid L+H* g s + 0 < H-L% a l + l - 0 0 0 0 , 0 0 - 0 0 0 0 1 1 7 2 0 2 19 0 0 4 6 0 0 3 11 19 5 5 3 1 2 2 0 0 10 5 3 7 8 3 19 3
+r 0 4 6 0 0 L+H* a s - 0 0 0 0 i0 + 1 1 s - t 0 0 0 0 - 0 0 0 0 L+H* 0 coda a r + - 0 0 0 0 L-L% 19 11 0 1 2 mid L+H* 0 0 0 0 i0 H-L% g s + < - 0 0 0 0 , 0 0 + 1 1 s - 0 2 6 3 0 2 19 0 0 4 6 0 0 3 11 19 5 5 3 1 2 2 0 0 10 5 3 7 8 3 19 3
+t 0 4 6 0 0 L+H* 0 0 0 0 b f - f - 0 0 0 0 i0 0 1 L+H* 0 + 1 1 s - 0 0 onset a s - - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* a r + 0 r H-L% 0 0 0 i0 + 1 1 s - , 0 0 - 0 0 0 0 1 0 5 4 0 2 19 0 0 4 6 0 0 2 10 19 6 6 2 2 1 1 0 0 10 5 3 7 8 3 19 3
+i0 0 4 6 0 0 L+H* b f - 0 0 0 0 aa + 2 3 l - f 0 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 1 1 s - L-L% 19 11 0 1 1 mid L+H* a s - 0 t H-L% a r + r - 0 0 0 0 , 0 0 - 0 0 0 0 0 1 4 5 0 2 19 0 0 4 6 0 0 2 10 19 6 6 2 2 1 1 0 0 10 5 3 7 8 3 19 3
+f 1 3 6 0 0 L+H* 0 0 0 0 g a + E - 0 0 0 0 aa 0 0 0 0 + 2 3 l - L+H* 0 onset b f - - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* 0 0 0 0 i0 H-L% a s - t - 0 0 0 0 , 0 0 + 1 1 s - 1 0 3 6 pre-nuclear 2 19 0 1 3 6 0 0 2 9 19 7 7 1 3 2 2 L+H* 0 10 5 3 7 8 3 19 3
+aa 1 3 6 0 0 L+H* g a + 0 0 0 0 i0 + 1 1 s - E 0 0 0 0 - 0 0 0 0 L+H* 0 coda 0 0 0 + 2 3 l - L-L% 19 11 0 1 1 mid L+H* b f - 0 f H-L% 0 0 0 i0 + 1 1 s - , 0 0 - 0 0 0 0 0 1 2 7 pre-nuclear 2 19 0 1 3 6 0 0 2 9 19 7 7 1 3 2 2 L+H* 0 10 5 3 7 8 3 19 3
+E 0 3 7 0 0 L+H* 0 0 0 0 a s + T - 0 0 0 0 i0 0 1 L+H* 0 + 1 1 s - 0 0 onset g a + - 0 0 0 0 L-L% 19 11 0 1 0 final L+H* 0 0 0 0 aa H-L% b f - f - 0 0 0 0 , 1 0 + 2 3 l - 1 0 1 8 0 2 19 0 0 3 7 0 1 2 8 19 1 1 0 4 1 1 0 0 10 5 3 7 8 3 19 3
+i0 0 3 7 1 0 L+H* a s + 0 0 0 0 A + 2 3 s - T 0 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 1 1 s - L-L% 19 11 0 1 1 final L+H* g a + 0 E H-L% 0 0 0 aa + 2 3 l - , 1 0 - 0 0 0 0 0 1 0 9 0 2 19 0 0 3 7 0 1 2 8 19 1 1 0 4 1 1 0 0 10 5 3 7 8 3 19 3
+T 1 2 7 0 0 L+H* 0 0 0 0 l r + w - 0 0 0 0 A 0 0 0 0 + 2 3 s - 0 0 onset a s + - 0 0 0 0 L-L% 19 11 0 1 0 initial L+H* 0 0 0 0 i0 H-L% g a + E - 0 0 0 0 , 0 1 + 1 1 s - 1 0 5 0 pre-nuclear 2 19 0 1 2 7 0 0 2 7 19 2 2 2 0 4 4 L+H* 0 6 3 2 8 9 2 19 2
+A 1 2 7 0 0 L+H* l r + 0 0 0 0 A + 2 3 s - w 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - L-L% 19 11 0 1 1 initial L+H* a s + 0 T H-L% 0 0 0 i0 + 1 1 s - , 0 1 - 0 0 0 0 0 1 4 1 pre-nuclear 2 19 0 1 2 7 0 0 2 7 19 2 2 2 0 4 4 L+H* 0 6 3 2 8 9 2 19 2
+w 0 2 8 0 0 L+H* 0 0 0 0 a l + l - 0 0 0 0 A 0 0 0 0 + 2 3 s - 0 0 onset l r + - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* 0 0 0 0 A H-L% a s + T - 0 0 0 0 , 1 0 + 2 3 s - 1 0 3 2 0 2 19 0 0 2 8 0 0 2 6 19 1 1 1 1 3 3 0 0 6 3 2 8 9 2 19 2
+A 0 2 8 0 0 L+H* a l + 0 0 0 0 a + 2 3 s - l 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - L-L% 19 11 0 1 1 mid L+H* l r + 0 w H-L% 0 0 0 A + 2 3 s - , 1 0 - 0 0 0 0 0 1 2 3 0 2 19 0 0 2 8 0 0 2 6 19 1 1 1 1 3 3 0 0 6 3 2 8 9 2 19 2
+l 0 2 8 0 0 L+H* 0 0 0 0 g f - h - 0 0 0 0 a 0 0 0 0 + 2 3 s - L+H* 0 onset a l + - 0 0 0 0 L-L% 19 11 0 1 0 final L+H* 0 0 0 0 A H-L% l r + w - 0 0 0 0 , 0 0 + 2 3 s - 1 0 1 4 0 2 19 0 0 2 8 0 1 2 5 19 2 2 0 2 2 2 0 0 6 3 2 8 9 2 19 2
+a 0 2 8 1 0 L+H* g f - 0 0 0 0 aa + 2 3 l - h 0 0 0 0 - 0 0 0 0 L+H* 0 coda 0 0 0 + 2 3 s - L-L% 19 11 0 1 1 final L+H* a l + 0 l H-L% 0 0 0 A + 2 3 s - , 0 0 - 0 0 0 0 0 1 0 5 0 2 19 0 0 2 8 0 1 2 5 19 2 2 0 2 2 2 0 0 6 3 2 8 9 2 19 2
+h 0 2 8 0 0 L+H* 0 0 0 0 a f + * - 0 0 0 0 aa 0 1 L+H* 0 + 2 3 l - 0 0 onset g f - - 0 0 0 0 L-L% 19 11 0 1 0 initial L+H* 0 0 0 0 a H-L% a l + l - 0 0 0 0 , 0 1 + 2 3 s - 1 0 3 0 0 2 19 0 0 2 8 0 0 2 4 19 3 3 2 0 1 1 0 0 4 3 1 9 10 1 19 1
+aa 0 2 8 0 0 L+H* a f + 0 0 0 0 a + 2 3 s - * 0 1 L+H* 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 l - L-L% 19 11 0 1 1 initial L+H* g f - 0 h H-L% 0 0 0 a + 2 3 s - , 0 1 - 0 0 0 0 0 1 2 1 0 2 19 0 0 2 8 0 0 2 4 19 3 3 2 0 1 1 0 0 4 3 1 9 10 1 19 1
+* 1 1 8 0 0 !H* 0 0 0 0 a l + l - 0 0 0 0 a 0 0 0 0 + 2 3 s - 0 0 coda a f + - 0 0 0 0 L-L% 19 11 0 1 0 mid L+H* 0 0 0 0 aa H-L% g f - h - 0 0 0 0 , 0 0 + 2 3 l - 0 0 1 2 pre-nuclear 2 19 0 1 1 8 0 0 1 3 19 4 4 1 1 3 3 L+H* 0 4 3 1 9 10 1 19 1
+a 0 1 9 1 0 !H* a l + 0 v s + q - 0 0 0 0 l 0 0 0 0 - 0 0 0 0 !H* L-L% coda 0 0 0 + 2 3 s - L-L% 19 11 0 1 0 final L+H* a f + 0 * H-L% 0 0 0 aa + 2 3 l - , 1 0 - 0 0 0 0 0 0 0 3 0 2 19 0 0 1 9 0 1 1 2 19 1 1 0 2 2 2 0 0 4 3 1 9 10 1 19 1
+l 0 1 9 0 0 !H* v s + 0 0 0 0 A + 2 3 s - q 0 1 !H* L-L% - 0 0 0 0 0 0 coda a l + - 0 0 0 0 L-L% 19 11 0 1 0 initial L+H* 0 0 0 0 a H-L% a f + * - 0 0 0 0 , 0 1 + 2 3 s - 0 0 4 0 0 2 19 0 0 1 9 0 0 1 1 19 2 2 1 0 1 1 0 0 5 2 0 10 11 0 19 0
+q 1 0 9 0 0 0 0 0 0 0 a r + r - 0 0 0 0 A 0 0 0 0 + 2 3 s - 0 0 onset v s + - 0 0 0 0 L-L% 19 11 0 1 0 final L+H* a l + 0 l H-L% 0 0 0 a + 2 3 s - , 0 0 - 0 0 0 0 3 0 3 1 nuclear 2 19 0 1 0 9 0 4 4 0 19 3 3 0 1 0 0 !H* L-L% 5 2 0 10 11 0 19 0
+A 1 0 9 0 0 0 a r + 0 a n + n - 0 0 0 0 r 0 0 0 0 - 0 0 0 0 0 0 coda 0 0 0 + 2 3 s - L-L% 19 11 0 1 1 final L+H* v s + 0 q H-L% a l + l - 0 0 0 0 , 0 0 - 0 0 0 0 2 1 2 2 nuclear 2 19 0 1 0 9 0 4 4 0 19 3 3 0 1 0 0 !H* L-L% 5 2 0 10 11 0 19 0
+r 1 0 9 0 0 0 a n + 0 0 0 0 _ 0 0 0 0 0 n 0 0 0 0 - 0 0 0 0 0 0 coda a r + - 0 0 0 0 L-L% 19 11 0 1 2 final L+H* 0 0 0 0 A H-L% v s + q - 0 0 0 0 , 0 0 + 2 3 s - 1 2 1 3 nuclear 2 19 0 1 0 9 0 4 4 0 19 3 3 0 1 0 0 !H* L-L% 5 2 0 10 11 0 19 0
+n 1 0 9 5 0 0 0 0 0 1 0 0 0 _ 0 0 0 0 0 _ 0 0 0 0 0 0 0 0 0 0 0 coda a n + - 0 0 0 0 L-L% 19 11 0 1 3 final L+H* a r + 0 r H-L% 0 0 0 A + 2 3 s - , 0 0 - 0 0 0 0 0 3 0 4 nuclear 2 19 0 1 0 9 0 4 4 0 19 3 3 0 1 0 0 !H* L-L% 5 2 0 10 11 0 19 0
+_ 0 0 10 0 0 0 0 0 0 0 0 0 0 _ 0 0 0 0 0 _ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 L-L% 19 11 0 1 0 0 !H* a n + 0 n H-L% a r + r - 0 0 0 0 0 1 4 - 0 0 0 0 0 0 0 0 0 2 19 0 0 0 10 0 0 0 0 19 1 1 0 0 0 0 0 0 0 0 0 11 0 0 19 0
+
+32 0 11 0 0 0 6 4 5 1 0 0 0 0 33 1 2 2 2 2 77 0 0 0 0 2 0 0 0 0 6 0 0 0 0 0 0 0 0 0 0 12 19 13 1 0 0 0 0 0 0 0 0 32 0 0 0 0 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 19 0 0 11 0 0 0 0 19 0 0 0 0 0 2 2 0 0 0 0 12 0 0 19 0 0
+77 0 11 0 0 0 6 0 0 0 0 1 5 1 65 2 0 0 0 0 33 2 1 6 0 1 2 2 2 2 0 0 1 4 5 1 2 0 0 0 0 12 19 13 1 0 0 3 0 0 0 0 1 32 0 0 0 0 32 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 7 0 0 2 19 0 0 11 0 0 0 2 19 0 0 0 3 0 1 1 0 0 8 4 11 0 0 19 0 12
+33 0 11 0 0 0 6 1 5 1 0 0 0 0 33 1 2 2 2 2 65 2 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 12 19 13 1 0 1 3 0 4 5 1 0 77 0 0 0 0 32 0 0 0 0 0 0 0 0 2 0 0 0 0 0 1 6 1 0 2 19 0 0 11 0 0 0 2 19 0 0 0 3 0 1 1 0 0 8 4 11 0 0 19 0 12
+65 1 10 0 0 0 6 0 0 0 0 5 6 1 52 2 0 0 0 0 33 2 0 0 0 1 2 2 2 2 0 0 1 1 5 1 2 0 0 0 0 12 19 13 1 0 0 4 0 0 0 0 0 33 0 4 5 1 77 2 0 0 0 0 0 0 0 1 2 2 2 2 1 0 5 2 2 2 19 0 1 10 0 0 0 2 19 1 1 1 2 1 4 4 6 0 8 4 11 0 0 19 0 12
+33 1 10 0 0 0 6 5 6 1 0 0 0 0 7 1 2 2 2 2 52 2 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 12 19 13 1 0 1 4 0 1 5 1 0 65 0 0 0 0 33 1 2 2 2 2 0 0 0 2 0 0 0 0 0 1 4 3 2 2 19 0 1 10 0 0 0 2 19 1 1 1 2 1 4 4 6 0 8 4 11 0 0 19 0 12
+52 0 10 1 0 0 6 0 0 0 0 3 2 2 14 2 0 0 0 0 7 2 0 0 0 1 2 2 2 2 0 0 1 5 6 1 2 0 0 0 0 12 19 13 1 0 0 4 6 0 0 0 0 33 0 1 5 1 65 2 0 0 0 0 0 1 0 1 2 2 2 2 1 0 3 4 0 2 19 0 0 10 1 0 0 2 19 2 1 1 1 2 3 3 0 0 8 4 11 0 0 19 0 12
+7 0 10 1 0 0 6 3 2 2 0 0 0 0 33 1 2 2 2 2 14 2 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 12 19 13 1 0 1 4 6 5 6 1 0 52 0 0 0 0 33 1 2 2 2 2 0 1 0 2 0 0 0 0 0 1 2 5 0 2 19 0 0 10 1 0 0 2 19 2 1 1 1 2 3 3 0 0 8 4 11 0 0 19 0 12
+14 0 10 1 0 0 6 0 0 0 0 1 6 2 70 2 0 0 0 0 33 2 0 0 0 1 2 2 2 2 6 0 1 3 2 2 2 0 0 0 0 12 19 13 1 0 0 2 6 0 0 0 0 7 0 5 6 1 52 2 0 0 0 0 0 0 0 1 2 2 2 2 1 0 1 6 0 2 19 0 0 10 1 0 1 2 19 3 2 2 0 3 2 2 0 0 8 4 11 0 0 19 0 12
+33 0 10 1 1 0 6 1 6 2 0 0 0 0 7 1 2 2 2 2 70 2 0 0 0 2 0 0 0 0 6 0 2 0 0 0 1 2 2 2 2 12 19 13 1 0 1 2 6 3 2 2 0 14 0 0 0 0 7 1 2 2 2 2 0 0 0 2 0 0 0 0 0 1 0 7 0 2 19 0 0 10 1 0 1 2 19 3 2 2 0 3 2 2 0 0 8 4 11 0 0 19 0 12
+70 0 10 1 0 0 6 0 0 0 0 6 6 1 63 2 0 0 0 0 7 2 1 6 0 1 2 2 2 2 0 0 1 1 6 2 2 0 0 0 0 12 19 13 1 0 0 3 6 0 0 0 0 33 0 3 2 2 14 2 0 0 0 0 0 0 1 1 2 2 2 2 2 0 6 0 0 2 19 0 0 10 1 0 0 3 19 4 3 3 2 0 1 1 0 0 7 3 10 1 1 19 1 11
+7 0 10 1 0 0 6 6 6 1 0 1 5 1 65 2 0 0 0 0 63 2 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 12 19 13 1 0 1 3 6 1 6 2 0 70 0 0 0 0 33 1 2 2 2 2 0 0 1 2 0 0 0 0 1 1 5 1 0 2 19 0 0 10 1 0 0 3 19 4 3 3 2 0 1 1 0 0 7 3 10 1 1 19 1 11
+63 0 10 1 0 0 6 1 5 1 0 0 0 0 49 1 1 1 1 2 65 2 1 6 0 2 0 0 0 0 0 0 2 6 6 1 2 0 0 0 0 12 19 13 1 0 2 3 6 0 0 0 0 7 0 1 6 2 70 2 0 0 0 0 0 0 1 1 2 2 2 2 0 2 4 2 0 2 19 0 0 10 1 0 0 3 19 4 3 3 2 0 1 1 0 0 7 3 10 1 1 19 1 11
+65 1 9 1 0 0 6 0 0 0 0 1 5 1 65 2 0 0 0 0 49 2 0 0 0 1 1 1 1 2 6 0 1 1 5 1 2 0 0 0 0 12 19 13 1 0 0 4 6 6 6 1 0 63 0 0 0 0 7 1 2 2 2 2 0 0 0 2 0 0 0 0 1 0 3 3 2 2 19 0 1 9 1 0 0 2 19 5 4 4 1 1 2 2 6 0 7 3 10 1 1 19 1 11
+49 1 9 1 0 0 6 1 5 1 0 0 0 0 72 1 3 1 2 1 65 2 0 0 0 2 0 0 0 0 6 0 2 0 0 0 1 1 1 1 2 12 19 13 1 0 1 4 6 1 5 1 0 65 0 6 6 1 63 2 0 0 0 0 0 0 0 2 0 0 0 0 0 1 2 4 2 2 19 0 1 9 1 0 0 2 19 5 4 4 1 1 2 2 6 0 7 3 10 1 1 19 1 11
+65 0 9 2 0 0 6 0 0 0 0 1 3 1 56 2 0 0 0 0 72 2 1 6 0 1 3 1 2 1 0 0 1 1 5 1 2 0 0 0 0 12 19 13 1 0 0 2 6 0 0 0 0 49 0 1 5 1 65 2 0 0 0 0 0 1 0 1 1 1 1 2 1 0 1 5 0 2 19 0 0 9 2 0 1 2 19 6 1 1 0 2 1 1 0 0 7 3 10 1 1 19 1 11
+72 0 9 2 1 0 6 1 3 1 0 0 0 0 33 1 2 2 2 2 56 2 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 3 1 2 1 12 19 13 1 0 1 2 6 1 5 1 0 65 0 0 0 0 49 1 1 1 1 2 0 1 0 2 0 0 0 0 0 1 0 6 0 2 19 0 0 9 2 0 1 2 19 6 1 1 0 2 1 1 0 0 7 3 10 1 1 19 1 11
+56 1 8 2 0 0 6 0 0 0 0 1 2 1 3 2 0 0 0 0 33 2 0 0 0 1 2 2 2 2 6 0 1 1 3 1 2 0 0 0 0 12 19 13 1 0 0 1 6 0 0 0 0 72 0 1 5 1 65 2 0 0 0 0 0 0 1 1 3 1 2 1 3 0 3 0 2 2 19 0 1 8 2 0 1 4 19 7 2 2 0 0 2 2 6 0 4 1 9 2 2 19 2 10
+33 1 8 2 0 0 6 1 2 1 0 0 0 0 47 1 1 1 2 2 3 2 0 0 0 2 0 0 0 0 6 0 1 0 0 0 1 2 2 2 2 12 19 13 1 0 1 1 6 1 3 1 0 56 0 0 0 0 72 1 3 1 2 1 0 0 1 2 0 0 0 0 2 1 2 1 2 2 19 0 1 8 2 0 1 4 19 7 2 2 0 0 2 2 6 0 4 1 9 2 2 19 2 10
+3 1 8 2 0 0 6 0 0 0 0 3 6 1 5 2 0 0 0 0 47 2 0 0 0 1 1 1 2 2 6 0 1 1 2 1 2 0 0 0 0 12 19 13 1 0 2 1 6 0 0 0 0 33 0 1 3 1 56 2 0 0 0 0 0 0 1 1 2 2 2 2 1 2 1 2 2 2 19 0 1 8 2 0 1 4 19 7 2 2 0 0 2 2 6 0 4 1 9 2 2 19 2 10
+47 1 8 2 1 0 6 3 6 1 0 0 0 0 33 1 2 2 2 2 5 2 0 0 0 2 0 0 0 0 6 0 2 0 0 0 1 1 1 2 2 12 19 13 1 0 3 1 6 1 2 1 0 3 0 0 0 0 33 1 2 2 2 2 0 0 1 2 0 0 0 0 0 3 0 3 2 2 19 0 1 8 2 0 1 4 19 7 2 2 0 0 2 2 6 0 4 1 9 2 2 19 2 10
+5 0 8 3 0 0 6 0 0 0 0 3 1 1 11 2 0 0 0 0 33 2 1 6 0 1 2 2 2 2 0 0 1 3 6 1 2 0 0 0 0 12 19 13 1 0 0 3 6 0 0 0 0 47 0 1 2 1 3 2 0 0 0 0 0 1 1 1 1 1 2 2 1 0 7 0 0 2 19 0 0 8 3 0 0 2 19 8 1 1 3 0 1 1 0 0 8 4 8 3 3 19 3 9
+33 0 8 3 0 0 6 3 1 1 0 0 0 0 33 1 2 2 2 2 11 2 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 12 19 13 1 0 1 3 6 3 6 1 0 5 0 0 0 0 47 1 1 1 2 2 0 1 1 2 0 0 0 0 0 1 6 1 0 2 19 0 0 8 3 0 0 2 19 8 1 1 3 0 1 1 0 0 8 4 8 3 3 19 3 9
+11 1 7 3 0 0 6 0 0 0 0 1 6 1 38 2 0 0 0 0 33 2 0 0 0 1 2 2 2 2 0 0 1 3 1 1 2 0 0 0 0 12 19 13 1 0 0 4 6 0 0 0 0 33 0 3 6 1 5 2 0 0 0 0 0 0 0 1 2 2 2 2 1 0 5 2 2 2 19 0 1 7 3 0 0 2 19 9 2 2 2 1 3 3 6 0 8 4 8 3 3 19 3 9
+33 1 7 3 0 0 6 1 6 1 0 0 0 0 33 1 2 2 2 2 38 2 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 12 19 13 1 0 1 4 6 3 1 1 0 11 0 0 0 0 33 1 2 2 2 2 0 0 0 2 0 0 0 0 0 1 4 3 2 2 19 0 1 7 3 0 0 2 19 9 2 2 2 1 3 3 6 0 8 4 8 3 3 19 3 9
+38 0 7 4 0 0 6 0 0 0 0 3 2 2 44 2 0 0 0 0 33 2 0 0 0 1 2 2 2 2 6 0 1 1 6 1 2 0 0 0 0 12 19 13 1 0 0 4 6 0 0 0 0 33 0 3 1 1 11 2 0 0 0 0 0 1 0 1 2 2 2 2 1 0 3 4 0 2 19 0 0 7 4 0 0 2 19 10 1 1 1 2 2 2 0 0 8 4 8 3 3 19 3 9
+33 0 7 4 0 0 6 3 2 2 0 0 0 0 72 1 3 1 2 1 44 2 0 0 0 2 0 0 0 0 6 0 2 0 0 0 1 2 2 2 2 12 19 13 1 0 1 4 6 1 6 1 0 38 0 0 0 0 33 1 2 2 2 2 0 1 0 2 0 0 0 0 0 1 2 5 0 2 19 0 0 7 4 0 0 2 19 10 1 1 1 2 2 2 0 0 8 4 8 3 3 19 3 9
+44 0 7 4 0 0 6 0 0 0 0 4 4 1 57 2 0 0 0 0 72 2 1 6 0 1 3 1 2 1 0 0 1 3 2 2 2 0 0 0 0 12 19 13 1 0 0 2 6 0 0 0 0 33 0 1 6 1 38 2 0 0 0 0 0 0 0 1 2 2 2 2 1 0 1 6 0 2 19 0 0 7 4 0 1 2 19 11 2 2 0 3 1 1 0 0 8 4 8 3 3 19 3 9
+72 0 7 4 1 0 6 4 4 1 0 0 0 0 33 1 2 2 2 2 57 2 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 3 1 2 1 12 19 13 1 0 1 2 6 3 2 2 0 44 0 0 0 0 33 1 2 2 2 2 0 0 0 2 0 0 0 0 0 1 0 7 0 2 19 0 0 7 4 0 1 2 19 11 2 2 0 3 1 1 0 0 8 4 8 3 3 19 3 9
+57 1 6 4 0 0 6 0 0 0 0 3 1 1 11 2 0 0 0 0 33 2 0 0 0 1 2 2 2 2 0 0 1 4 4 1 2 0 0 0 0 12 19 13 1 0 0 3 6 0 0 0 0 72 0 3 2 2 44 2 0 0 0 0 0 0 1 1 3 1 2 1 2 0 6 0 2 2 19 0 1 6 4 0 0 3 19 12 3 3 2 0 4 4 6 0 7 3 7 4 4 18 4 8
+33 1 6 4 0 0 6 3 1 1 0 3 2 2 44 2 0 0 0 0 11 2 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 12 19 13 1 0 1 3 6 4 4 1 0 57 0 0 0 0 72 1 3 1 2 1 0 0 1 2 0 0 0 0 1 1 5 1 2 2 19 0 1 6 4 0 0 3 19 12 3 3 2 0 4 4 6 0 7 3 7 4 4 18 4 8
+11 1 6 4 0 0 6 3 2 2 0 0 0 0 33 1 2 2 2 2 44 2 0 0 0 2 0 0 0 0 0 0 2 3 1 1 2 0 0 0 0 12 19 13 1 0 2 3 6 0 0 0 0 33 0 4 4 1 57 2 0 0 0 0 0 0 1 1 2 2 2 2 0 2 4 2 2 2 19 0 1 6 4 0 0 3 19 12 3 3 2 0 4 4 6 0 7 3 7 4 4 18 4 8
+44 0 6 5 0 0 6 0 0 0 0 1 6 1 37 2 0 0 0 0 33 2 0 0 0 1 2 2 2 2 0 0 1 3 2 2 2 0 0 0 0 12 19 13 1 0 0 4 6 3 1 1 0 11 0 0 0 0 33 1 2 2 2 2 0 1 0 2 0 0 0 0 1 0 3 3 0 2 19 0 0 6 5 0 0 2 19 13 1 1 1 1 3 3 0 0 7 3 7 4 4 18 4 8
+33 0 6 5 0 0 6 1 6 1 0 0 0 0 72 1 3 1 2 1 37 2 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 12 19 13 1 0 1 4 6 3 2 2 0 44 0 3 1 1 11 2 0 0 0 0 0 1 0 2 0 0 0 0 0 1 2 4 0 2 19 0 0 6 5 0 0 2 19 13 1 1 1 1 3 3 0 0 7 3 7 4 4 18 4 8
+37 0 6 5 0 0 6 0 0 0 0 3 6 1 5 2 0 0 0 0 72 2 0 0 0 1 3 1 2 1 6 0 1 1 6 1 2 0 0 0 0 12 19 13 1 0 0 2 6 0 0 0 0 33 0 3 2 2 44 2 0 0 0 0 0 0 0 1 2 2 2 2 1 0 1 5 0 2 19 0 0 6 5 0 1 2 19 14 2 2 0 2 2 2 0 0 7 3 7 4 4 18 4 8
+72 0 6 5 1 0 6 3 6 1 0 0 0 0 33 1 2 2 2 2 5 2 0 0 0 2 0 0 0 0 6 0 2 0 0 0 1 3 1 2 1 12 19 13 1 0 1 2 6 1 6 1 0 37 0 0 0 0 33 1 2 2 2 2 0 0 0 2 0 0 0 0 0 1 0 6 0 2 19 0 0 6 5 0 1 2 19 14 2 2 0 2 2 2 0 0 7 3 7 4 4 18 4 8
+5 0 6 5 0 0 6 0 0 0 0 4 6 1 35 2 0 0 0 0 33 2 1 6 0 1 2 2 2 2 0 0 1 3 6 1 2 0 0 0 0 12 19 13 1 0 0 3 6 0 0 0 0 72 0 1 6 1 37 2 0 0 0 0 0 0 1 1 3 1 2 1 2 0 6 0 0 2 19 0 0 6 5 0 0 3 19 15 3 3 2 0 1 1 0 0 7 3 6 5 5 17 5 7
+33 0 6 5 0 0 6 4 6 1 0 3 2 2 14 2 0 0 0 0 35 2 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 12 19 13 1 0 1 3 6 3 6 1 0 5 0 0 0 0 72 1 3 1 2 1 0 0 1 2 0 0 0 0 1 1 5 1 0 2 19 0 0 6 5 0 0 3 19 15 3 3 2 0 1 1 0 0 7 3 6 5 5 17 5 7
+35 0 6 5 0 0 6 3 2 2 0 0 0 0 34 1 2 2 1 2 14 2 1 6 0 2 0 0 0 0 0 0 2 4 6 1 2 0 0 0 0 12 19 13 1 0 2 3 6 0 0 0 0 33 0 3 6 1 5 2 0 0 0 0 0 0 1 1 2 2 2 2 0 2 4 2 0 2 19 0 0 6 5 0 0 3 19 15 3 3 2 0 1 1 0 0 7 3 6 5 5 17 5 7
+14 1 5 5 0 0 6 0 0 0 0 1 2 2 30 2 0 0 0 0 34 2 0 0 0 1 2 2 1 2 0 0 1 3 2 2 2 0 0 0 0 12 19 13 1 0 0 4 6 4 6 1 0 35 0 0 0 0 33 1 2 2 2 2 0 0 0 2 0 0 0 0 1 0 3 3 2 2 19 0 1 5 5 0 0 2 19 16 4 4 1 1 3 3 6 0 7 3 6 5 5 17 5 7
+34 1 5 5 0 0 6 1 2 2 0 0 0 0 47 1 1 1 2 2 30 2 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 1 2 12 19 13 1 0 1 4 6 3 2 2 0 14 0 4 6 1 35 2 0 0 0 0 0 0 0 2 0 0 0 0 0 1 2 4 2 2 19 0 1 5 5 0 0 2 19 16 4 4 1 1 3 3 6 0 7 3 6 5 5 17 5 7
+30 0 5 6 0 0 6 0 0 0 0 3 2 2 44 2 0 0 0 0 47 2 0 0 0 1 1 1 2 2 6 0 1 1 2 2 2 0 0 0 0 12 19 13 1 0 0 2 6 0 0 0 0 34 0 3 2 2 14 2 0 0 0 0 0 1 0 1 2 2 1 2 1 0 1 5 0 2 19 0 0 5 6 0 1 2 19 17 1 1 0 2 2 2 0 0 7 3 6 5 5 17 5 7
+47 0 5 6 1 0 6 3 2 2 0 0 0 0 7 1 2 2 2 2 44 2 0 0 0 2 0 0 0 0 6 0 2 0 0 0 1 1 1 2 2 12 19 13 1 0 1 2 6 1 2 2 0 30 0 0 0 0 34 1 2 2 1 2 0 1 0 2 0 0 0 0 0 1 0 6 0 2 19 0 0 5 6 0 1 2 19 17 1 1 0 2 2 2 0 0 7 3 6 5 5 17 5 7
+44 0 5 6 0 0 6 0 0 0 0 1 2 1 9 2 0 0 0 0 7 2 1 6 0 1 2 2 2 2 0 0 1 3 2 2 2 0 0 0 0 12 19 13 1 0 0 3 6 0 0 0 0 47 0 1 2 2 30 2 0 0 0 0 0 0 1 1 1 1 2 2 1 0 7 0 0 2 19 0 0 5 6 0 0 2 19 18 2 2 3 0 1 1 0 0 8 4 5 6 6 16 6 6
+7 0 5 6 0 0 6 1 2 1 0 0 0 0 7 1 2 2 2 2 9 2 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 12 19 13 1 0 1 3 6 3 2 2 0 44 0 0 0 0 47 1 1 1 2 2 0 0 1 2 0 0 0 0 0 1 6 1 0 2 19 0 0 5 6 0 0 2 19 18 2 2 3 0 1 1 0 0 8 4 5 6 6 16 6 6
+9 1 4 6 0 0 6 0 0 0 0 4 6 1 35 2 0 0 0 0 7 2 0 0 0 1 2 2 2 2 0 0 1 1 2 1 2 0 0 0 0 12 19 13 1 0 0 4 6 0 0 0 0 7 0 3 2 2 44 2 0 0 0 0 0 0 0 1 2 2 2 2 1 0 5 2 2 2 19 0 1 4 6 0 0 2 19 19 3 3 2 1 3 3 6 0 8 4 5 6 6 16 6 6
+7 1 4 6 0 0 6 4 6 1 0 0 0 0 33 1 2 2 2 2 35 2 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 12 19 13 1 0 1 4 6 1 2 1 0 9 0 0 0 0 7 1 2 2 2 2 0 0 0 2 0 0 0 0 0 1 4 3 2 2 19 0 1 4 6 0 0 2 19 19 3 3 2 1 3 3 6 0 8 4 5 6 6 16 6 6
+35 0 4 7 0 0 6 0 0 0 0 1 6 2 69 2 0 0 0 0 33 2 0 0 0 1 2 2 2 2 6 0 1 4 6 1 2 0 0 0 0 12 19 13 1 0 0 4 6 0 0 0 0 7 0 1 2 1 9 2 0 0 0 0 0 1 0 1 2 2 2 2 1 0 3 4 0 2 19 0 0 4 7 0 0 2 19 19 1 1 1 2 2 2 0 0 8 4 5 6 6 16 6 6
+33 0 4 7 0 0 6 1 6 2 0 0 0 0 47 1 1 1 2 2 69 2 0 0 0 2 0 0 0 0 6 0 2 0 0 0 1 2 2 2 2 12 19 13 1 0 1 4 6 4 6 1 0 35 0 0 0 0 7 1 2 2 2 2 0 1 0 2 0 0 0 0 0 1 2 5 0 2 19 0 0 4 7 0 0 2 19 19 1 1 1 2 2 2 0 0 8 4 5 6 6 16 6 6
+69 0 4 7 0 0 6 0 0 0 0 1 6 2 70 2 0 0 0 0 47 2 1 6 0 1 1 1 2 2 0 0 1 1 6 2 2 0 0 0 0 12 19 13 1 0 0 2 6 0 0 0 0 33 0 4 6 1 35 2 0 0 0 0 0 0 0 1 2 2 2 2 1 0 1 6 0 2 19 0 0 4 7 0 1 2 18 19 2 2 0 3 1 1 0 0 8 4 5 6 6 16 6 6
+47 0 4 7 1 0 6 1 6 2 0 0 0 0 48 1 1 1 2 2 70 2 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 1 1 2 2 12 19 13 1 0 1 2 6 1 6 2 0 69 0 0 0 0 33 1 2 2 2 2 0 0 0 2 0 0 0 0 0 1 0 7 0 2 19 0 0 4 7 0 1 2 18 19 2 2 0 3 1 1 0 0 8 4 5 6 6 16 6 6
+70 1 3 7 0 0 6 0 0 0 0 4 6 1 35 2 0 0 0 0 48 2 0 0 0 1 1 1 2 2 0 0 1 1 6 2 2 0 0 0 0 12 19 13 1 0 0 3 6 0 0 0 0 47 0 1 6 2 69 2 0 0 0 0 0 0 1 1 1 1 2 2 2 0 4 0 2 2 19 0 1 3 7 0 0 3 17 19 3 3 1 0 7 7 6 0 5 2 4 7 7 15 7 5
+48 1 3 7 0 0 6 4 6 1 0 1 6 2 69 2 0 0 0 0 35 2 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 1 1 2 2 12 19 13 1 0 1 3 6 1 6 2 0 70 0 0 0 0 47 1 1 1 2 2 0 0 1 2 0 0 0 0 1 1 3 1 2 2 19 0 1 3 7 0 0 3 17 19 3 3 1 0 7 7 6 0 5 2 4 7 7 15 7 5
+35 1 3 7 0 0 6 1 6 2 0 0 0 0 47 1 1 1 2 2 69 2 0 0 0 2 0 0 0 0 0 0 2 4 6 1 2 0 0 0 0 12 19 13 1 0 2 3 6 0 0 0 0 48 0 1 6 2 70 2 0 0 0 0 0 0 1 1 1 1 2 2 0 2 2 2 2 2 19 0 1 3 7 0 0 3 17 19 3 3 1 0 7 7 6 0 5 2 4 7 7 15 7 5
+69 0 3 8 0 0 6 0 0 0 0 2 2 2 40 2 0 0 0 0 47 2 0 0 0 1 1 1 2 2 0 0 1 1 6 2 2 0 0 0 0 12 19 13 1 0 0 2 6 4 6 1 0 35 0 0 0 0 48 1 1 1 2 2 0 1 0 2 0 0 0 0 1 0 1 3 0 2 19 0 0 3 8 0 1 2 16 19 1 1 0 1 6 6 0 0 5 2 4 7 7 15 7 5
+47 0 3 8 1 0 6 2 2 2 0 0 0 0 47 1 1 1 2 2 40 2 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 1 1 2 2 12 19 13 1 0 1 2 6 1 6 2 0 69 0 4 6 1 35 2 0 0 0 0 0 1 0 2 0 0 0 0 0 1 0 4 0 2 19 0 0 3 8 0 1 2 16 19 1 1 0 1 6 6 0 0 5 2 4 7 7 15 7 5
+40 0 3 8 0 0 6 0 0 0 0 1 3 1 55 2 0 0 0 0 47 2 0 0 0 1 1 1 2 2 0 0 1 2 2 2 2 0 0 0 0 12 19 13 1 0 0 1 6 0 0 0 0 47 0 1 6 2 69 2 0 0 0 0 0 0 1 1 1 1 2 2 1 0 1 0 0 2 19 0 0 3 8 0 1 2 15 19 2 2 0 0 5 5 0 0 2 1 3 8 8 14 8 4
+47 0 3 8 1 0 6 1 3 1 0 3 6 1 5 2 0 0 0 0 55 2 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 1 1 2 2 12 19 13 1 0 1 1 6 2 2 2 0 40 0 0 0 0 47 1 1 1 2 2 0 0 1 2 0 0 0 0 0 1 0 1 0 2 19 0 0 3 8 0 1 2 15 19 2 2 0 0 5 5 0 0 2 1 3 8 8 14 8 4
+55 0 3 8 0 0 6 3 6 1 0 0 0 0 33 1 2 2 2 2 5 2 0 0 0 2 0 0 0 0 0 0 2 1 3 1 2 0 0 0 0 12 19 13 1 0 0 3 6 0 0 0 0 47 0 2 2 2 40 2 0 0 0 0 0 0 1 1 1 1 2 2 0 0 12 0 0 2 19 0 0 3 8 0 0 1 14 19 3 3 6 0 4 4 0 0 13 7 2 9 9 13 9 3
+5 0 3 8 0 0 6 0 0 0 0 6 6 2 53 2 0 0 0 0 33 2 0 0 0 1 2 2 2 2 0 0 1 3 6 1 2 0 0 0 0 12 19 13 1 0 0 4 6 1 3 1 0 55 0 0 0 0 47 1 1 1 2 2 0 0 0 2 0 0 0 0 1 0 11 1 0 2 19 0 0 3 8 0 0 2 13 19 4 4 5 1 3 3 0 0 13 7 2 9 9 13 9 3
+33 0 3 8 0 0 6 6 6 2 0 0 0 0 34 1 2 2 1 2 53 2 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 12 19 13 1 0 1 4 6 3 6 1 0 5 0 1 3 1 55 2 0 0 0 0 0 0 0 2 0 0 0 0 0 1 10 2 0 2 19 0 0 3 8 0 0 2 13 19 4 4 5 1 3 3 0 0 13 7 2 9 9 13 9 3
+53 0 3 8 0 0 6 0 0 0 0 1 6 1 37 2 0 0 0 0 34 2 0 0 0 1 2 2 1 2 6 0 1 6 6 2 2 0 0 0 0 12 19 13 1 0 0 4 6 0 0 0 0 33 0 3 6 1 5 2 0 0 0 0 0 0 0 1 2 2 2 2 1 0 9 3 0 2 19 0 0 3 8 0 0 2 12 19 5 5 4 2 2 2 0 0 13 7 2 9 9 13 9 3
+34 0 3 8 0 0 6 1 6 1 0 0 0 0 49 1 1 1 1 2 37 2 0 0 0 2 0 0 0 0 6 0 2 0 0 0 1 2 2 1 2 12 19 13 1 0 1 4 6 6 6 2 0 53 0 0 0 0 33 1 2 2 2 2 0 0 0 2 0 0 0 0 0 1 8 4 0 2 19 0 0 3 8 0 0 2 12 19 5 5 4 2 2 2 0 0 13 7 2 9 9 13 9 3
+37 0 3 8 0 0 6 0 0 0 0 4 4 1 57 2 0 0 0 0 49 2 1 6 0 1 1 1 1 2 0 0 1 1 6 1 2 0 0 0 0 12 19 13 1 0 0 4 6 0 0 0 0 34 0 6 6 2 53 2 0 0 0 0 0 0 0 1 2 2 1 2 1 0 7 5 0 2 19 0 0 3 8 0 0 2 11 19 6 6 3 3 1 1 0 0 13 7 2 9 9 13 9 3
+49 0 3 8 0 0 6 4 4 1 0 0 0 0 49 1 1 1 1 2 57 2 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 1 1 1 2 12 19 13 1 0 1 4 6 1 6 1 0 37 0 0 0 0 34 1 2 2 1 2 0 0 0 2 0 0 0 0 0 1 6 6 0 2 19 0 0 3 8 0 0 2 11 19 6 6 3 3 1 1 0 0 13 7 2 9 9 13 9 3
+57 1 2 8 0 0 6 0 0 0 0 5 5 1 81 2 0 0 0 0 49 2 0 0 0 1 1 1 1 2 0 0 1 4 4 1 2 0 0 0 0 12 19 13 1 0 0 4 6 0 0 0 0 49 0 1 6 1 37 2 0 0 0 0 0 0 0 1 1 1 1 2 1 0 5 7 2 2 19 0 1 2 8 0 0 2 10 19 7 7 2 4 4 4 6 0 13 7 2 9 9 13 9 3
+49 1 2 8 0 0 6 5 5 1 0 0 0 0 33 1 2 2 2 2 81 2 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 1 1 1 2 12 19 13 1 0 1 4 6 4 4 1 0 57 0 0 0 0 49 1 1 1 1 2 0 0 0 2 0 0 0 0 0 1 4 8 2 2 19 0 1 2 8 0 0 2 10 19 7 7 2 4 4 4 6 0 13 7 2 9 9 13 9 3
+81 0 2 9 0 0 6 0 0 0 0 1 6 2 69 2 0 0 0 0 33 2 0 0 0 1 2 2 2 2 0 0 1 5 5 1 2 0 0 0 0 12 19 13 1 0 0 4 6 0 0 0 0 49 0 4 4 1 57 2 0 0 0 0 0 1 0 1 1 1 1 2 1 0 3 9 0 2 19 0 0 2 9 0 0 2 9 19 1 1 1 5 3 3 0 0 13 7 2 9 9 13 9 3
+33 0 2 9 0 0 6 1 6 2 0 0 0 0 47 1 1 1 2 2 69 2 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 12 19 13 1 0 1 4 6 5 5 1 0 81 0 0 0 0 49 1 1 1 1 2 0 1 0 2 0 0 0 0 0 1 2 10 0 2 19 0 0 2 9 0 0 2 9 19 1 1 1 5 3 3 0 0 13 7 2 9 9 13 9 3
+69 0 2 9 0 0 6 0 0 0 0 1 2 2 20 2 0 0 0 0 47 2 0 0 0 1 1 1 2 2 6 0 1 1 6 2 2 0 0 0 0 12 19 13 1 0 0 2 6 0 0 0 0 33 0 5 5 1 81 2 0 0 0 0 0 0 0 1 2 2 2 2 1 0 1 11 0 2 19 0 0 2 9 0 1 2 8 19 2 2 0 6 2 2 0 0 13 7 2 9 9 13 9 3
+47 0 2 9 1 0 6 1 2 2 0 0 0 0 18 1 1 1 2 2 20 2 0 0 0 2 0 0 0 0 6 0 2 0 0 0 1 1 1 2 2 12 19 13 1 0 1 2 6 1 6 2 0 69 0 0 0 0 33 1 2 2 2 2 0 0 0 2 0 0 0 0 0 1 0 12 0 2 19 0 0 2 9 0 1 2 8 19 2 2 0 6 2 2 0 0 13 7 2 9 9 13 9 3
+20 0 2 9 0 0 6 0 0 0 0 1 4 1 59 2 0 0 0 0 18 2 1 6 0 1 1 1 2 2 0 0 1 1 2 2 2 0 0 0 0 12 19 13 1 0 0 3 6 0 0 0 0 47 0 1 6 2 69 2 0 0 0 0 0 0 1 1 1 1 2 2 1 0 7 0 0 2 19 0 0 2 9 0 0 2 7 19 3 3 3 0 1 1 0 0 8 4 1 10 10 12 10 2
+18 0 2 9 0 0 6 1 4 1 0 0 0 0 49 1 1 1 1 2 59 2 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 1 1 2 2 12 19 13 1 0 1 3 6 1 2 2 0 20 0 0 0 0 47 1 1 1 2 2 0 0 1 2 0 0 0 0 0 1 6 1 0 2 19 0 0 2 9 0 0 2 7 19 3 3 3 0 1 1 0 0 8 4 1 10 10 12 10 2
+59 1 1 9 0 0 6 0 0 0 0 5 5 1 81 2 0 0 0 0 49 2 0 0 0 1 1 1 1 2 0 0 1 1 4 1 2 0 0 0 0 12 19 13 1 0 0 4 6 0 0 0 0 18 0 1 2 2 20 2 0 0 0 0 0 0 0 1 1 1 2 2 1 0 5 2 2 2 19 0 1 1 9 0 0 2 6 19 4 4 2 1 5 5 6 0 8 4 1 10 10 12 10 2
+49 1 1 9 0 0 6 5 5 1 0 0 0 0 33 1 2 2 2 2 81 2 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 1 1 1 2 12 19 13 1 0 1 4 6 1 4 1 0 59 0 0 0 0 18 1 1 1 2 2 0 0 0 2 0 0 0 0 0 1 4 3 2 2 19 0 1 1 9 0 0 2 6 19 4 4 2 1 5 5 6 0 8 4 1 10 10 12 10 2
+81 0 1 10 0 0 6 0 0 0 0 1 6 2 69 2 0 0 0 0 33 2 0 0 0 1 2 2 2 2 0 0 1 5 5 1 2 0 0 0 0 12 19 13 1 0 0 4 6 0 0 0 0 49 0 1 4 1 59 2 0 0 0 0 0 1 0 1 1 1 1 2 1 0 3 4 0 2 19 0 0 1 10 0 0 2 5 19 1 1 1 2 4 4 0 0 8 4 1 10 10 12 10 2
+33 0 1 10 0 0 6 1 6 2 0 0 0 0 47 1 1 1 2 2 69 2 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 12 19 13 1 0 1 4 6 5 5 1 0 81 0 0 0 0 49 1 1 1 1 2 0 1 0 2 0 0 0 0 0 1 2 5 0 2 19 0 0 1 10 0 0 2 5 19 1 1 1 2 4 4 0 0 8 4 1 10 10 12 10 2
+69 0 1 10 0 0 6 0 0 0 0 1 3 1 55 2 0 0 0 0 47 2 0 0 0 1 1 1 2 2 0 0 1 1 6 2 2 0 0 0 0 12 19 13 1 0 0 2 6 0 0 0 0 33 0 5 5 1 81 2 0 0 0 0 0 0 0 1 2 2 2 2 1 0 1 6 0 2 19 0 0 1 10 0 1 2 4 19 2 2 0 3 3 3 0 0 8 4 1 10 10 12 10 2
+47 0 1 10 1 0 6 1 3 1 0 0 0 0 72 1 3 1 2 1 55 2 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 1 1 2 2 12 19 13 1 0 1 2 6 1 6 2 0 69 0 0 0 0 33 1 2 2 2 2 0 0 0 2 0 0 0 0 0 1 0 7 0 2 19 0 0 1 10 0 1 2 4 19 2 2 0 3 3 3 0 0 8 4 1 10 10 12 10 2
+55 0 1 10 0 0 6 0 0 0 0 1 3 1 55 2 0 0 0 0 72 2 0 0 0 1 3 1 2 1 6 0 1 1 3 1 2 0 0 0 0 12 19 13 1 0 0 3 6 0 0 0 0 47 0 1 6 2 69 2 0 0 0 0 0 0 1 1 1 1 2 2 2 0 8 0 0 2 19 0 0 1 10 0 0 3 3 19 3 3 3 0 2 2 0 0 9 4 0 11 11 11 11 1
+72 0 1 10 0 0 6 1 3 1 0 3 1 1 11 2 0 0 0 0 55 2 0 0 0 2 0 0 0 0 6 0 2 0 0 0 1 3 1 2 1 12 19 13 1 0 1 3 6 1 3 1 0 55 0 0 0 0 47 1 1 1 2 2 0 0 1 2 0 0 0 0 1 1 7 1 0 2 19 0 0 1 10 0 0 3 3 19 3 3 3 0 2 2 0 0 9 4 0 11 11 11 11 1
+55 0 1 10 0 0 6 3 1 1 0 0 0 0 72 1 3 1 2 1 11 2 0 0 0 2 0 0 0 0 6 0 2 1 3 1 2 0 0 0 0 12 19 13 1 0 2 3 6 0 0 0 0 72 0 1 3 1 55 2 0 0 0 0 0 0 1 1 3 1 2 1 0 2 6 2 0 2 19 0 0 1 10 0 0 3 3 19 3 3 3 0 2 2 0 0 9 4 0 11 11 11 11 1
+11 0 1 10 0 0 6 0 0 0 0 1 3 1 55 2 0 0 0 0 72 2 1 6 0 1 3 1 2 1 0 12 1 3 1 1 2 0 0 0 0 12 19 13 1 0 0 4 6 1 3 1 0 55 0 0 0 0 72 1 3 1 2 1 0 0 0 2 0 0 0 0 1 0 5 3 0 2 19 0 0 1 10 0 0 2 2 19 4 4 2 1 1 1 0 0 9 4 0 11 11 11 11 1
+72 0 1 10 0 0 6 1 3 1 0 0 0 0 74 1 3 1 1 1 55 2 1 6 0 2 0 0 0 0 0 12 2 0 0 0 1 3 1 2 1 12 19 13 1 0 1 4 6 3 1 1 0 11 0 1 3 1 55 2 0 0 0 0 0 0 0 2 0 0 0 0 0 1 4 4 0 2 19 0 0 1 10 0 0 2 2 19 4 4 2 1 1 1 0 0 9 4 0 11 11 11 11 1
+55 1 0 10 0 0 0 0 0 0 0 4 4 1 57 2 0 0 0 0 74 2 0 0 12 1 3 1 1 1 6 0 1 1 3 1 2 0 0 0 0 12 19 13 1 0 0 4 6 0 0 0 0 72 0 3 1 1 11 2 0 0 0 0 0 0 0 1 3 1 2 1 1 0 3 5 2 2 19 0 1 0 10 0 0 2 1 19 5 5 1 2 1 1 6 0 9 4 0 11 11 11 11 1
+74 1 0 10 0 0 0 4 4 1 0 0 0 0 47 1 1 1 2 2 57 2 0 0 12 2 0 0 0 0 6 0 2 0 0 0 1 3 1 1 1 12 19 13 1 0 1 4 6 1 3 1 0 55 0 0 0 0 72 1 3 1 2 1 0 0 0 2 0 0 0 0 0 1 2 6 2 2 19 0 1 0 10 0 0 2 1 19 5 5 1 2 1 1 6 0 9 4 0 11 11 11 11 1
+57 0 0 11 0 0 0 0 0 0 0 0 0 0 32 0 0 0 0 0 47 2 1 6 0 1 1 1 2 2 0 0 1 4 4 1 2 0 0 0 0 12 19 13 1 0 0 2 6 0 0 0 0 74 0 1 3 1 55 2 0 0 0 0 0 1 0 1 3 1 1 1 1 0 1 7 4 2 19 0 0 0 11 0 4 2 0 19 1 1 0 3 0 0 0 12 9 4 0 11 11 11 11 1
+47 0 0 11 4 0 0 0 0 0 1 3 6 1 5 2 0 0 0 0 32 2 1 6 0 0 0 0 0 0 0 0 2 0 0 0 1 1 1 2 2 12 19 13 1 0 1 2 6 4 4 1 0 57 0 0 0 0 74 1 3 1 1 1 0 1 0 2 0 0 0 0 0 1 0 8 4 2 19 0 0 0 11 0 4 2 0 19 1 1 0 3 0 0 0 12 9 4 0 11 11 11 11 1
+32 0 0 11 0 0 0 3 6 1 0 0 0 0 33 1 2 2 2 2 5 0 1 6 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 12 19 13 1 0 0 0 6 0 0 0 0 47 0 4 4 1 57 2 0 0 0 0 0 0 4 1 1 1 2 2 0 0 0 0 0 2 19 0 0 0 11 0 0 0 0 19 2 2 0 0 0 0 0 0 0 0 0 12 0 11 12 0
+5 1 9 0 0 0 6 0 0 0 0 1 4 1 59 2 0 0 0 0 33 0 0 0 0 1 2 2 2 2 0 0 1 3 6 1 2 0 0 0 0 10 19 11 0 1 0 1 0 0 0 0 1 32 12 0 0 0 47 1 1 1 2 2 2 0 4 0 0 0 0 0 2 0 2 0 2 2 19 0 1 9 0 0 1 3 19 0 0 0 0 0 3 3 6 0 3 1 10 0 1 10 12 10
+33 1 9 0 0 0 6 1 4 1 0 1 6 2 69 2 0 0 0 0 59 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 10 19 11 0 1 1 1 0 3 6 1 0 5 12 0 0 0 32 0 0 0 0 0 2 0 4 2 0 0 0 0 1 1 1 1 2 2 19 0 1 9 0 0 1 3 19 0 0 0 0 0 3 3 6 0 3 1 10 0 1 10 12 10
+59 1 9 0 1 0 6 1 6 2 0 0 0 0 33 1 2 2 2 2 69 0 0 0 0 2 0 0 0 0 0 0 2 1 4 1 2 0 0 0 0 10 19 11 0 1 2 1 0 0 0 0 0 33 12 3 6 1 5 2 0 0 0 0 2 0 4 1 2 2 2 2 0 2 0 2 2 2 19 0 1 9 0 0 1 3 19 0 0 0 0 0 3 3 6 0 3 1 10 0 1 10 12 10
+69 0 9 1 0 0 6 0 0 0 0 1 2 2 67 2 0 0 0 0 33 0 0 0 0 1 2 2 2 2 6 0 1 1 6 2 2 0 0 0 0 10 19 11 0 1 0 3 6 1 4 1 0 59 12 0 0 0 33 1 2 2 2 2 2 1 1 2 0 0 0 0 2 0 8 0 0 2 19 0 0 9 1 0 0 3 19 1 1 1 3 0 2 2 0 0 9 4 9 1 2 9 13 9
+33 0 9 1 0 0 6 1 2 2 0 1 6 2 69 2 0 0 0 0 67 0 0 0 0 2 0 0 0 0 6 0 2 0 0 0 1 2 2 2 2 10 19 11 0 1 1 3 6 1 6 2 0 69 12 1 4 1 59 2 0 0 0 0 2 1 1 2 0 0 0 0 1 1 7 1 0 2 19 0 0 9 1 0 0 3 19 1 1 1 3 0 2 2 0 0 9 4 9 1 2 9 13 9
+67 0 9 1 0 0 6 1 6 2 0 0 0 0 33 1 2 2 2 2 69 0 0 0 0 2 0 0 0 0 6 0 2 1 2 2 2 0 0 0 0 10 19 11 0 1 2 3 6 0 0 0 0 33 12 1 6 2 69 2 0 0 0 0 2 1 1 1 2 2 2 2 0 2 6 2 0 2 19 0 0 9 1 0 0 3 19 1 1 1 3 0 2 2 0 0 9 4 9 1 2 9 13 9
+69 0 9 1 0 0 6 0 0 0 0 4 4 1 57 2 0 0 0 0 33 0 1 6 0 1 2 2 2 2 0 0 1 1 6 2 2 0 0 0 0 10 19 11 0 1 0 4 6 1 2 2 0 67 12 0 0 0 33 1 2 2 2 2 2 0 0 2 0 0 0 0 1 0 5 3 0 2 19 0 0 9 1 0 0 2 19 2 2 2 2 1 1 1 0 0 9 4 9 1 2 9 13 9
+33 0 9 1 0 0 6 4 4 1 0 0 0 0 47 1 1 1 2 2 57 0 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 10 19 11 0 1 1 4 6 1 6 2 0 69 12 1 2 2 67 2 0 0 0 0 2 0 0 2 0 0 0 0 0 1 4 4 0 2 19 0 0 9 1 0 0 2 19 2 2 2 2 1 1 1 0 0 9 4 9 1 2 9 13 9
+57 1 8 1 0 0 6 0 0 0 0 1 5 1 66 2 0 0 0 0 47 0 0 0 0 1 1 1 2 2 0 0 1 4 4 1 2 0 0 0 0 10 19 11 0 1 0 4 6 0 0 0 0 33 12 1 6 2 69 2 0 0 0 0 2 0 0 1 2 2 2 2 1 0 3 5 2 2 19 0 1 8 1 0 0 2 19 3 3 3 1 2 4 4 6 0 9 4 9 1 2 9 13 9
+47 1 8 1 0 0 6 1 5 1 0 0 0 0 33 1 2 2 2 2 66 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 1 1 2 2 10 19 11 0 1 1 4 6 4 4 1 0 57 12 0 0 0 33 1 2 2 2 2 2 0 0 2 0 0 0 0 0 1 2 6 2 2 19 0 1 8 1 0 0 2 19 3 3 3 1 2 4 4 6 0 9 4 9 1 2 9 13 9
+66 0 8 2 0 0 6 0 0 0 0 1 6 1 37 2 0 0 0 0 33 0 0 0 0 1 2 2 2 2 0 0 1 1 5 1 2 0 0 0 0 10 19 11 0 1 0 2 6 0 0 0 0 47 12 4 4 1 57 2 0 0 0 0 2 1 0 1 1 1 2 2 1 0 1 7 0 2 19 0 0 8 2 0 1 2 19 4 1 1 0 3 3 3 0 0 9 4 9 1 2 9 13 9
+33 0 8 2 1 0 6 1 6 1 0 0 0 0 33 1 2 2 2 2 37 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 10 19 11 0 1 1 2 6 1 5 1 0 66 12 0 0 0 47 1 1 1 2 2 2 1 0 2 0 0 0 0 0 1 0 8 0 2 19 0 0 8 2 0 1 2 19 4 1 1 0 3 3 3 0 0 9 4 9 1 2 9 13 9
+37 0 8 2 0 0 6 0 0 0 0 1 5 1 65 2 0 0 0 0 33 0 0 0 0 1 2 2 2 2 6 0 1 1 6 1 2 0 0 0 0 10 19 11 0 1 0 3 6 0 0 0 0 33 12 1 5 1 66 2 0 0 0 0 2 0 1 1 2 2 2 2 1 0 7 0 0 2 19 0 0 8 2 0 0 2 19 5 2 2 3 0 2 2 0 0 8 4 8 2 3 8 14 8
+33 0 8 2 0 0 6 1 5 1 0 0 0 0 33 1 2 2 2 2 65 0 0 0 0 2 0 0 0 0 6 0 2 0 0 0 1 2 2 2 2 10 19 11 0 1 1 3 6 1 6 1 0 37 12 0 0 0 33 1 2 2 2 2 2 0 1 2 0 0 0 0 0 1 6 1 0 2 19 0 0 8 2 0 0 2 19 5 2 2 3 0 2 2 0 0 8 4 8 2 3 8 14 8
+65 0 8 2 0 0 6 0 0 0 0 5 6 1 51 2 0 0 0 0 33 0 1 6 0 1 2 2 2 2 0 0 1 1 5 1 2 0 0 0 0 10 19 11 0 1 0 4 6 0 0 0 0 33 12 1 6 1 37 2 0 0 0 0 2 0 0 1 2 2 2 2 1 0 5 2 0 2 19 0 0 8 2 0 0 2 19 6 3 3 2 1 1 1 0 0 8 4 8 2 3 8 14 8
+33 0 8 2 0 0 6 5 6 1 0 0 0 0 34 1 2 2 1 2 51 0 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 10 19 11 0 1 1 4 6 1 5 1 0 65 12 0 0 0 33 1 2 2 2 2 2 0 0 2 0 0 0 0 0 1 4 3 0 2 19 0 0 8 2 0 0 2 19 6 3 3 2 1 1 1 0 0 8 4 8 2 3 8 14 8
+51 1 7 2 0 0 6 0 0 0 0 1 6 2 69 2 0 0 0 0 34 0 0 0 0 1 2 2 1 2 0 0 1 5 6 1 2 0 0 0 0 10 19 11 0 1 0 4 6 0 0 0 0 33 12 1 5 1 65 2 0 0 0 0 2 0 0 1 2 2 2 2 1 0 3 4 2 2 19 0 1 7 2 0 0 2 19 7 4 4 1 2 4 4 6 0 8 4 8 2 3 8 14 8
+34 1 7 2 0 0 6 1 6 2 0 0 0 0 72 1 3 1 2 1 69 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 1 2 10 19 11 0 1 1 4 6 5 6 1 0 51 12 0 0 0 33 1 2 2 2 2 2 0 0 2 0 0 0 0 0 1 2 5 2 2 19 0 1 7 2 0 0 2 19 7 4 4 1 2 4 4 6 0 8 4 8 2 3 8 14 8
+69 0 7 3 0 0 6 0 0 0 0 1 3 1 55 2 0 0 0 0 72 0 0 0 0 1 3 1 2 1 0 0 1 1 6 2 2 0 0 0 0 10 19 11 0 1 0 2 6 0 0 0 0 34 12 5 6 1 51 2 0 0 0 0 2 1 0 1 2 2 1 2 1 0 1 6 0 2 19 0 0 7 3 0 1 2 19 8 1 1 0 3 3 3 0 0 8 4 8 2 3 8 14 8
+72 0 7 3 1 0 6 1 3 1 0 3 2 2 14 2 0 0 0 0 55 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 3 1 2 1 10 19 11 0 1 1 2 6 1 6 2 0 69 12 0 0 0 34 1 2 2 1 2 2 1 0 2 0 0 0 0 0 1 0 7 0 2 19 0 0 7 3 0 1 2 19 8 1 1 0 3 3 3 0 0 8 4 8 2 3 8 14 8
+55 0 7 3 0 0 6 3 2 2 0 0 0 0 33 1 2 2 2 2 14 0 0 0 0 2 0 0 0 0 6 0 2 1 3 1 2 0 0 0 0 10 19 11 0 1 0 3 6 0 0 0 0 72 12 1 6 2 69 2 0 0 0 0 2 0 1 1 3 1 2 1 0 0 8 0 0 2 19 0 0 7 3 0 0 1 19 9 2 2 4 0 2 2 0 0 9 5 7 3 4 7 15 7
+14 0 7 3 0 0 6 0 0 0 0 1 5 1 65 2 0 0 0 0 33 0 1 6 0 1 2 2 2 2 0 0 1 3 2 2 2 0 0 0 0 10 19 11 0 1 0 4 6 1 3 1 0 55 12 0 0 0 72 1 3 1 2 1 2 0 0 2 0 0 0 0 1 0 7 1 0 2 19 0 0 7 3 0 0 2 19 10 3 3 3 1 1 1 0 0 9 5 7 3 4 7 15 7
+33 0 7 3 0 0 6 1 5 1 0 0 0 0 34 1 2 2 1 2 65 0 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 10 19 11 0 1 1 4 6 3 2 2 0 14 12 1 3 1 55 2 0 0 0 0 2 0 0 2 0 0 0 0 0 1 6 2 0 2 19 0 0 7 3 0 0 2 19 10 3 3 3 1 1 1 0 0 9 5 7 3 4 7 15 7
+65 1 6 3 0 0 6 0 0 0 0 1 5 1 65 2 0 0 0 0 34 0 0 0 0 1 2 2 1 2 0 0 1 1 5 1 2 0 0 0 0 10 19 11 0 1 0 4 6 0 0 0 0 33 12 3 2 2 14 2 0 0 0 0 2 0 0 1 2 2 2 2 1 0 5 3 2 2 19 0 1 6 3 0 0 2 19 11 4 4 2 2 7 7 6 0 9 5 7 3 4 7 15 7
+34 1 6 3 0 0 6 1 5 1 0 0 0 0 33 1 2 2 2 2 65 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 1 2 10 19 11 0 1 1 4 6 1 5 1 0 65 12 0 0 0 33 1 2 2 2 2 2 0 0 2 0 0 0 0 0 1 4 4 2 2 19 0 1 6 3 0 0 2 19 11 4 4 2 2 7 7 6 0 9 5 7 3 4 7 15 7
+65 0 6 4 0 0 6 0 0 0 0 1 6 2 69 2 0 0 0 0 33 0 0 0 0 1 2 2 2 2 0 0 1 1 5 1 2 0 0 0 0 10 19 11 0 1 0 4 6 0 0 0 0 34 12 1 5 1 65 2 0 0 0 0 2 1 0 1 2 2 1 2 1 0 3 5 0 2 19 0 0 6 4 0 0 2 19 12 1 1 1 3 6 6 0 0 9 5 7 3 4 7 15 7
+33 0 6 4 0 0 6 1 6 2 0 0 0 0 47 1 1 1 2 2 69 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 10 19 11 0 1 1 4 6 1 5 1 0 65 12 0 0 0 34 1 2 2 1 2 2 1 0 2 0 0 0 0 0 1 2 6 0 2 19 0 0 6 4 0 0 2 19 12 1 1 1 3 6 6 0 0 9 5 7 3 4 7 15 7
+69 0 6 4 0 0 6 0 0 0 0 4 5 1 77 2 0 0 0 0 47 0 0 0 0 1 1 1 2 2 0 0 1 1 6 2 2 0 0 0 0 10 19 11 0 1 0 2 6 0 0 0 0 33 12 1 5 1 65 2 0 0 0 0 2 0 0 1 2 2 2 2 1 0 1 7 0 2 19 0 0 6 4 0 1 2 19 13 2 2 0 4 5 5 0 0 9 5 7 3 4 7 15 7
+47 0 6 4 1 0 6 4 5 1 0 0 0 0 33 1 2 2 2 2 77 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 1 1 2 2 10 19 11 0 1 1 2 6 1 6 2 0 69 12 0 0 0 33 1 2 2 2 2 2 0 0 2 0 0 0 0 0 1 0 8 0 2 19 0 0 6 4 0 1 2 19 13 2 2 0 4 5 5 0 0 9 5 7 3 4 7 15 7
+77 0 6 4 0 0 6 0 0 0 0 4 4 1 57 2 0 0 0 0 33 0 0 0 0 1 2 2 2 2 0 0 1 4 5 1 2 0 0 0 0 10 19 11 0 1 0 3 6 0 0 0 0 47 12 1 6 2 69 2 0 0 0 0 2 0 1 1 1 1 2 2 1 0 12 0 0 2 19 0 0 6 4 0 0 2 19 14 3 3 5 0 4 4 0 0 13 6 6 4 5 6 16 6
+33 0 6 4 0 0 6 4 4 1 0 0 0 0 72 1 3 1 2 1 57 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 10 19 11 0 1 1 3 6 4 5 1 0 77 12 0 0 0 47 1 1 1 2 2 2 0 1 2 0 0 0 0 0 1 11 1 0 2 19 0 0 6 4 0 0 2 19 14 3 3 5 0 4 4 0 0 13 6 6 4 5 6 16 6
+57 0 6 4 0 0 6 0 0 0 0 1 2 2 67 2 0 0 0 0 72 0 0 0 0 1 3 1 2 1 0 0 1 4 4 1 2 0 0 0 0 10 19 11 0 1 0 4 6 0 0 0 0 33 12 4 5 1 77 2 0 0 0 0 2 0 0 1 2 2 2 2 2 0 10 2 0 2 19 0 0 6 4 0 0 3 19 15 4 4 4 1 3 3 0 0 13 6 6 4 5 6 16 6
+72 0 6 4 0 0 6 1 2 2 0 1 6 2 69 2 0 0 0 0 67 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 3 1 2 1 10 19 11 0 1 1 4 6 4 4 1 0 57 12 0 0 0 33 1 2 2 2 2 2 0 0 2 0 0 0 0 1 1 9 3 0 2 19 0 0 6 4 0 0 3 19 15 4 4 4 1 3 3 0 0 13 6 6 4 5 6 16 6
+67 0 6 4 0 0 6 1 6 2 0 0 0 0 33 1 2 2 2 2 69 0 0 0 0 2 0 0 0 0 0 0 2 1 2 2 2 0 0 0 0 10 19 11 0 1 2 4 6 0 0 0 0 72 12 4 4 1 57 2 0 0 0 0 2 0 0 1 3 1 2 1 0 2 8 4 0 2 19 0 0 6 4 0 0 3 19 15 4 4 4 1 3 3 0 0 13 6 6 4 5 6 16 6
+69 0 6 4 0 0 6 0 0 0 0 4 5 1 77 2 0 0 0 0 33 0 0 0 0 1 2 2 2 2 6 0 1 1 6 2 2 0 0 0 0 10 19 11 0 1 0 4 6 1 2 2 0 67 12 0 0 0 72 1 3 1 2 1 2 0 0 2 0 0 0 0 1 0 7 5 0 2 19 0 0 6 4 0 0 2 19 16 5 5 3 2 2 2 0 0 13 6 6 4 5 6 16 6
+33 0 6 4 0 0 6 4 5 1 0 0 0 0 33 1 2 2 2 2 77 0 0 0 0 2 0 0 0 0 6 0 2 0 0 0 1 2 2 2 2 10 19 11 0 1 1 4 6 1 6 2 0 69 12 1 2 2 67 2 0 0 0 0 2 0 0 2 0 0 0 0 0 1 6 6 0 2 19 0 0 6 4 0 0 2 19 16 5 5 3 2 2 2 0 0 13 6 6 4 5 6 16 6
+77 0 6 4 0 0 6 0 0 0 0 5 5 1 81 2 0 0 0 0 33 0 1 6 0 1 2 2 2 2 0 0 1 4 5 1 2 0 0 0 0 10 19 11 0 1 0 4 6 0 0 0 0 33 12 1 6 2 69 2 0 0 0 0 2 0 0 1 2 2 2 2 1 0 5 7 0 2 19 0 0 6 4 0 0 2 19 17 6 6 2 3 1 1 0 0 13 6 6 4 5 6 16 6
+33 0 6 4 0 0 6 5 5 1 0 0 0 0 34 1 2 2 1 2 81 0 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 10 19 11 0 1 1 4 6 4 5 1 0 77 12 0 0 0 33 1 2 2 2 2 2 0 0 2 0 0 0 0 0 1 4 8 0 2 19 0 0 6 4 0 0 2 19 17 6 6 2 3 1 1 0 0 13 6 6 4 5 6 16 6
+81 1 5 4 0 0 6 0 0 0 0 1 6 2 69 2 0 0 0 0 34 0 0 0 0 1 2 2 1 2 0 0 1 5 5 1 2 0 0 0 0 10 19 11 0 1 0 4 6 0 0 0 0 33 12 4 5 1 77 2 0 0 0 0 2 0 0 1 2 2 2 2 1 0 3 9 2 2 19 0 1 5 4 0 0 2 19 18 7 7 1 4 3 3 6 0 13 6 6 4 5 6 16 6
+34 1 5 4 0 0 6 1 6 2 0 0 0 0 72 1 3 1 2 1 69 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 1 2 10 19 11 0 1 1 4 6 5 5 1 0 81 12 0 0 0 33 1 2 2 2 2 2 0 0 2 0 0 0 0 0 1 2 10 2 2 19 0 1 5 4 0 0 2 19 18 7 7 1 4 3 3 6 0 13 6 6 4 5 6 16 6
+69 0 5 5 0 0 6 0 0 0 0 1 5 1 66 2 0 0 0 0 72 0 0 0 0 1 3 1 2 1 6 0 1 1 6 2 2 0 0 0 0 10 19 11 0 1 0 2 6 0 0 0 0 34 12 5 5 1 81 2 0 0 0 0 2 1 0 1 2 2 1 2 1 0 1 11 0 2 19 0 0 5 5 0 1 2 18 19 1 1 0 5 2 2 0 0 13 6 6 4 5 6 16 6
+72 0 5 5 1 0 6 1 5 1 0 0 0 0 24 1 3 1 2 1 66 0 0 0 0 2 0 0 0 0 6 0 2 0 0 0 1 3 1 2 1 10 19 11 0 1 1 2 6 1 6 2 0 69 12 0 0 0 34 1 2 2 1 2 2 1 0 2 0 0 0 0 0 1 0 12 0 2 19 0 0 5 5 0 1 2 18 19 1 1 0 5 2 2 0 0 13 6 6 4 5 6 16 6
+66 0 5 5 0 0 6 0 0 0 0 1 6 1 21 2 0 0 0 0 24 0 1 6 0 1 3 1 2 1 0 0 1 1 5 1 2 0 0 0 0 10 19 11 0 1 0 3 6 0 0 0 0 72 12 1 6 2 69 2 0 0 0 0 2 0 1 1 3 1 2 1 1 0 7 0 0 2 19 0 0 5 5 0 0 2 17 19 2 2 3 0 1 1 0 0 8 4 5 5 6 5 17 5
+24 0 5 5 0 0 6 1 6 1 0 0 0 0 26 1 3 1 2 1 21 0 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 3 1 2 1 10 19 11 0 1 1 3 6 1 5 1 0 66 12 0 0 0 72 1 3 1 2 1 2 0 1 2 0 0 0 0 0 1 6 1 0 2 19 0 0 5 5 0 0 2 17 19 2 2 3 0 1 1 0 0 8 4 5 5 6 5 17 5
+21 1 4 5 0 0 6 0 0 0 0 4 6 1 35 2 0 0 0 0 26 0 0 0 0 1 3 1 2 1 0 0 1 1 6 1 2 0 0 0 0 10 19 11 0 1 0 4 6 0 0 0 0 24 12 1 5 1 66 2 0 0 0 0 2 0 0 1 3 1 2 1 1 0 5 2 2 2 19 0 1 4 5 0 0 2 16 19 3 3 2 1 7 7 6 0 8 4 5 5 6 5 17 5
+26 1 4 5 0 0 6 4 6 1 0 0 0 0 33 1 2 2 2 2 35 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 3 1 2 1 10 19 11 0 1 1 4 6 1 6 1 0 21 12 0 0 0 24 1 3 1 2 1 2 0 0 2 0 0 0 0 0 1 4 3 2 2 19 0 1 4 5 0 0 2 16 19 3 3 2 1 7 7 6 0 8 4 5 5 6 5 17 5
+35 0 4 6 0 0 6 0 0 0 0 1 6 2 69 2 0 0 0 0 33 0 0 0 0 1 2 2 2 2 0 0 1 4 6 1 2 0 0 0 0 10 19 11 0 1 0 4 6 0 0 0 0 26 12 1 6 1 21 2 0 0 0 0 2 1 0 1 3 1 2 1 1 0 3 4 0 2 19 0 0 4 6 0 0 2 15 19 1 1 1 2 6 6 0 0 8 4 5 5 6 5 17 5
+33 0 4 6 0 0 6 1 6 2 0 0 0 0 47 1 1 1 2 2 69 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 10 19 11 0 1 1 4 6 4 6 1 0 35 12 0 0 0 26 1 3 1 2 1 2 1 0 2 0 0 0 0 0 1 2 5 0 2 19 0 0 4 6 0 0 2 15 19 1 1 1 2 6 6 0 0 8 4 5 5 6 5 17 5
+69 0 4 6 0 0 6 0 0 0 0 2 2 2 40 2 0 0 0 0 47 0 0 0 0 1 1 1 2 2 0 0 1 1 6 2 2 0 0 0 0 10 19 11 0 1 0 2 6 0 0 0 0 33 12 4 6 1 35 2 0 0 0 0 2 0 0 1 2 2 2 2 1 0 1 6 0 2 19 0 0 4 6 0 1 2 14 19 2 2 0 3 5 5 0 0 8 4 5 5 6 5 17 5
+47 0 4 6 1 0 6 2 2 2 0 0 0 0 47 1 1 1 2 2 40 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 1 1 2 2 10 19 11 0 1 1 2 6 1 6 2 0 69 12 0 0 0 33 1 2 2 2 2 2 0 0 2 0 0 0 0 0 1 0 7 0 2 19 0 0 4 6 0 1 2 14 19 2 2 0 3 5 5 0 0 8 4 5 5 6 5 17 5
+40 0 4 6 0 0 6 0 0 0 0 1 3 1 55 2 0 0 0 0 47 0 0 0 0 1 1 1 2 2 0 0 1 2 2 2 2 0 0 0 0 10 19 11 0 1 0 1 6 0 0 0 0 47 12 1 6 2 69 2 0 0 0 0 2 0 1 1 1 1 2 2 1 0 1 0 0 2 19 0 0 4 6 0 1 2 13 19 3 3 0 0 4 4 0 0 2 1 4 6 7 4 18 4
+47 0 4 6 1 0 6 1 3 1 0 3 6 1 5 2 0 0 0 0 55 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 1 1 2 2 10 19 11 0 1 1 1 6 2 2 2 0 40 12 0 0 0 47 1 1 1 2 2 2 0 1 2 0 0 0 0 0 1 0 1 0 2 19 0 0 4 6 0 1 2 13 19 3 3 0 0 4 4 0 0 2 1 4 6 7 4 18 4
+55 0 4 6 0 0 6 3 6 1 0 0 0 0 47 1 1 1 2 2 5 0 0 0 0 2 0 0 0 0 0 0 2 1 3 1 2 0 0 0 0 10 19 11 0 1 0 3 6 0 0 0 0 47 12 2 2 2 40 2 0 0 0 0 2 0 1 1 1 1 2 2 0 0 9 0 0 2 19 0 0 4 6 0 0 1 12 19 4 4 4 0 3 3 0 0 10 5 3 7 8 3 19 3
+5 0 4 6 0 0 6 0 0 0 0 1 5 1 65 2 0 0 0 0 47 0 0 0 0 1 1 1 2 2 6 0 1 3 6 1 2 0 0 0 0 10 19 11 0 1 0 4 6 1 3 1 0 55 12 0 0 0 47 1 1 1 2 2 2 0 0 2 0 0 0 0 2 0 8 1 0 2 19 0 0 4 6 0 0 3 11 19 5 5 3 1 2 2 0 0 10 5 3 7 8 3 19 3
+47 0 4 6 0 0 6 1 5 1 0 1 6 2 69 2 0 0 0 0 65 0 0 0 0 2 0 0 0 0 6 0 2 0 0 0 1 1 1 2 2 10 19 11 0 1 1 4 6 3 6 1 0 5 12 1 3 1 55 2 0 0 0 0 2 0 0 2 0 0 0 0 1 1 7 2 0 2 19 0 0 4 6 0 0 3 11 19 5 5 3 1 2 2 0 0 10 5 3 7 8 3 19 3
+65 0 4 6 0 0 6 1 6 2 0 0 0 0 47 1 1 1 2 2 69 0 0 0 0 2 0 0 0 0 6 0 2 1 5 1 2 0 0 0 0 10 19 11 0 1 2 4 6 0 0 0 0 47 12 3 6 1 5 2 0 0 0 0 2 0 0 1 1 1 2 2 0 2 6 3 0 2 19 0 0 4 6 0 0 3 11 19 5 5 3 1 2 2 0 0 10 5 3 7 8 3 19 3
+69 0 4 6 0 0 6 0 0 0 0 2 2 2 40 2 0 0 0 0 47 0 1 6 0 1 1 1 2 2 0 0 1 1 6 2 2 0 0 0 0 10 19 11 0 1 0 4 6 1 5 1 0 65 12 0 0 0 47 1 1 1 2 2 2 0 0 2 0 0 0 0 1 0 5 4 0 2 19 0 0 4 6 0 0 2 10 19 6 6 2 2 1 1 0 0 10 5 3 7 8 3 19 3
+47 0 4 6 0 0 6 2 2 2 0 0 0 0 34 1 2 2 1 2 40 0 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 1 1 2 2 10 19 11 0 1 1 4 6 1 6 2 0 69 12 1 5 1 65 2 0 0 0 0 2 0 0 2 0 0 0 0 0 1 4 5 0 2 19 0 0 4 6 0 0 2 10 19 6 6 2 2 1 1 0 0 10 5 3 7 8 3 19 3
+40 1 3 6 0 0 6 0 0 0 0 3 1 1 11 2 0 0 0 0 34 0 0 0 0 1 2 2 1 2 6 0 1 2 2 2 2 0 0 0 0 10 19 11 0 1 0 4 6 0 0 0 0 47 12 1 6 2 69 2 0 0 0 0 2 0 0 1 1 1 2 2 1 0 3 6 2 2 19 0 1 3 6 0 0 2 9 19 7 7 1 3 2 2 6 0 10 5 3 7 8 3 19 3
+34 1 3 6 0 0 6 3 1 1 0 0 0 0 47 1 1 1 2 2 11 0 0 0 0 2 0 0 0 0 6 0 2 0 0 0 1 2 2 1 2 10 19 11 0 1 1 4 6 2 2 2 0 40 12 0 0 0 47 1 1 1 2 2 2 0 0 2 0 0 0 0 0 1 2 7 2 2 19 0 1 3 6 0 0 2 9 19 7 7 1 3 2 2 6 0 10 5 3 7 8 3 19 3
+11 0 3 7 0 0 6 0 0 0 0 1 6 1 21 2 0 0 0 0 47 0 1 6 0 1 1 1 2 2 0 0 1 3 1 1 2 0 0 0 0 10 19 11 0 1 0 2 6 0 0 0 0 34 12 2 2 2 40 2 0 0 0 0 2 1 0 1 2 2 1 2 1 0 1 8 0 2 19 0 0 3 7 0 1 2 8 19 1 1 0 4 1 1 0 0 10 5 3 7 8 3 19 3
+47 0 3 7 1 0 6 1 6 1 0 0 0 0 7 1 2 2 2 2 21 0 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 1 1 2 2 10 19 11 0 1 1 2 6 3 1 1 0 11 12 0 0 0 34 1 2 2 1 2 2 1 0 2 0 0 0 0 0 1 0 9 0 2 19 0 0 3 7 0 1 2 8 19 1 1 0 4 1 1 0 0 10 5 3 7 8 3 19 3
+21 1 2 7 0 0 6 0 0 0 0 4 5 1 77 2 0 0 0 0 7 0 0 0 0 1 2 2 2 2 0 0 1 1 6 1 2 0 0 0 0 10 19 11 0 1 0 3 6 0 0 0 0 47 12 3 1 1 11 2 0 0 0 0 2 0 1 1 1 1 2 2 1 0 5 0 2 2 19 0 1 2 7 0 0 2 7 19 2 2 2 0 4 4 6 0 6 3 2 8 9 2 19 2
+7 1 2 7 0 0 6 4 5 1 0 0 0 0 7 1 2 2 2 2 77 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 10 19 11 0 1 1 3 6 1 6 1 0 21 12 0 0 0 47 1 1 1 2 2 2 0 1 2 0 0 0 0 0 1 4 1 2 2 19 0 1 2 7 0 0 2 7 19 2 2 2 0 4 4 6 0 6 3 2 8 9 2 19 2
+77 0 2 8 0 0 6 0 0 0 0 1 3 1 55 2 0 0 0 0 7 0 0 0 0 1 2 2 2 2 0 0 1 4 5 1 2 0 0 0 0 10 19 11 0 1 0 4 6 0 0 0 0 7 12 1 6 1 21 2 0 0 0 0 2 1 0 1 2 2 2 2 1 0 3 2 0 2 19 0 0 2 8 0 0 2 6 19 1 1 1 1 3 3 0 0 6 3 2 8 9 2 19 2
+7 0 2 8 0 0 6 1 3 1 0 0 0 0 33 1 2 2 2 2 55 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 10 19 11 0 1 1 4 6 4 5 1 0 77 12 0 0 0 7 1 2 2 2 2 2 1 0 2 0 0 0 0 0 1 2 3 0 2 19 0 0 2 8 0 0 2 6 19 1 1 1 1 3 3 0 0 6 3 2 8 9 2 19 2
+55 0 2 8 0 0 6 0 0 0 0 3 2 2 44 2 0 0 0 0 33 0 0 0 0 1 2 2 2 2 6 0 1 1 3 1 2 0 0 0 0 10 19 11 0 1 0 2 6 0 0 0 0 7 12 4 5 1 77 2 0 0 0 0 2 0 0 1 2 2 2 2 1 0 1 4 0 2 19 0 0 2 8 0 1 2 5 19 2 2 0 2 2 2 0 0 6 3 2 8 9 2 19 2
+33 0 2 8 1 0 6 3 2 2 0 0 0 0 34 1 2 2 1 2 44 0 0 0 0 2 0 0 0 0 6 0 2 0 0 0 1 2 2 2 2 10 19 11 0 1 1 2 6 1 3 1 0 55 12 0 0 0 7 1 2 2 2 2 2 0 0 2 0 0 0 0 0 1 0 5 0 2 19 0 0 2 8 0 1 2 5 19 2 2 0 2 2 2 0 0 6 3 2 8 9 2 19 2
+44 0 2 8 0 0 6 0 0 0 0 1 2 1 3 2 0 0 0 0 34 0 1 6 0 1 2 2 1 2 0 0 1 3 2 2 2 0 0 0 0 10 19 11 0 1 0 3 6 0 0 0 0 33 12 1 3 1 55 2 0 0 0 0 2 0 1 1 2 2 2 2 1 0 3 0 0 2 19 0 0 2 8 0 0 2 4 19 3 3 2 0 1 1 0 0 4 3 1 9 10 1 19 1
+34 0 2 8 0 0 6 1 2 1 0 0 0 0 33 1 2 2 2 2 3 0 1 6 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 1 2 10 19 11 0 1 1 3 6 3 2 2 0 44 12 0 0 0 33 1 2 2 2 2 2 0 1 2 0 0 0 0 0 1 2 1 0 2 19 0 0 2 8 0 0 2 4 19 3 3 2 0 1 1 0 0 4 3 1 9 10 1 19 1
+3 1 1 8 0 0 3 0 0 0 0 1 3 1 55 2 0 0 0 0 33 0 0 0 0 1 2 2 2 2 0 0 2 1 2 1 2 0 0 0 0 10 19 11 0 1 0 4 6 0 0 0 0 34 12 3 2 2 44 2 0 0 0 0 2 0 0 1 2 2 1 2 0 0 1 2 2 2 19 0 1 1 8 0 0 1 3 19 4 4 1 1 3 3 6 0 4 3 1 9 10 1 19 1
+33 0 1 9 1 0 3 1 3 1 0 6 6 1 63 2 0 0 0 0 55 0 0 0 0 2 0 0 0 0 3 10 2 0 0 0 1 2 2 2 2 10 19 11 0 1 0 2 6 1 2 1 0 3 12 0 0 0 34 1 2 2 1 2 2 1 0 2 0 0 0 0 0 0 0 3 0 2 19 0 0 1 9 0 1 1 2 19 1 1 0 2 2 2 0 0 4 3 1 9 10 1 19 1
+55 0 1 9 0 0 3 6 6 1 0 0 0 0 7 1 2 2 2 2 63 0 1 3 10 2 0 0 0 0 0 0 2 1 3 1 2 0 0 0 0 10 19 11 0 1 0 3 6 0 0 0 0 33 12 1 2 1 3 2 0 0 0 0 2 0 1 1 2 2 2 2 0 0 4 0 0 2 19 0 0 1 9 0 0 1 1 19 2 2 1 0 1 1 0 0 5 2 0 10 11 0 19 0
+63 1 0 9 0 0 0 0 0 0 0 1 5 1 65 2 0 0 0 0 7 0 0 0 0 1 2 2 2 2 0 0 1 6 6 1 2 0 0 0 0 10 19 11 0 1 0 2 6 1 3 1 0 55 12 0 0 0 33 1 2 2 2 2 2 0 0 2 0 0 0 0 3 0 3 1 3 2 19 0 1 0 9 0 4 4 0 19 3 3 0 1 0 0 3 10 5 2 0 10 11 0 19 0
+7 1 0 9 0 0 0 1 5 1 0 1 4 1 59 2 0 0 0 0 65 0 0 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 2 2 2 10 19 11 0 1 1 2 6 6 6 1 0 63 12 1 3 1 55 2 0 0 0 0 2 0 0 2 0 0 0 0 2 1 2 2 3 2 19 0 1 0 9 0 4 4 0 19 3 3 0 1 0 0 3 10 5 2 0 10 11 0 19 0
+65 1 0 9 0 0 0 1 4 1 0 0 0 0 32 0 0 0 0 0 59 0 0 0 0 2 0 0 0 0 0 0 2 1 5 1 2 0 0 0 0 10 19 11 0 1 2 2 6 0 0 0 0 7 12 6 6 1 63 2 0 0 0 0 2 0 0 1 2 2 2 2 1 2 1 3 3 2 19 0 1 0 9 0 4 4 0 19 3 3 0 1 0 0 3 10 5 2 0 10 11 0 19 0
+59 1 0 9 5 0 0 0 0 0 1 0 0 0 32 0 0 0 0 0 32 0 0 0 0 0 0 0 0 0 0 0 2 1 4 1 2 0 0 0 0 10 19 11 0 1 3 2 6 1 5 1 0 65 12 0 0 0 7 1 2 2 2 2 2 0 0 2 0 0 0 0 0 3 0 4 3 2 19 0 1 0 9 0 4 4 0 19 3 3 0 1 0 0 3 10 5 2 0 10 11 0 19 0
+32 0 0 10 0 0 0 0 0 0 0 0 0 0 32 0 0 0 0 0 32 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 10 19 11 0 1 0 0 3 1 4 1 0 59 12 1 5 1 65 2 0 0 0 0 0 1 4 2 0 0 0 0 0 0 0 0 0 2 19 0 0 0 10 0 0 0 0 19 1 1 0 0 0 0 0 0 0 0 0 11 0 0 19 0
