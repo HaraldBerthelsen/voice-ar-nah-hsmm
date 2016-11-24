@@ -8,6 +8,9 @@ The recordings were made by Nawar Halabi, supported by MicroLinkPC (https://www.
 The recordings are released under the "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License", but MicroLinkPC and Nawar Halabi have generously agreed to allow the hsmm voice for marytts to be released under the "Creative Commons Attribution-ShareAlike 4.0 International Public License".
 
 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+
 ## Prerequisites
 
 You will need to have [Java](https://www.java.com/) installed.
